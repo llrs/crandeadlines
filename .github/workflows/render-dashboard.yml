@@ -83,7 +83,7 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git add cran-incoming-*.csv
+          git add cran-outgoing-*.csv
           git commit -m 'new data'
           git push
           echo "pushed to github"
