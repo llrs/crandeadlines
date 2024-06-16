@@ -72,6 +72,8 @@ jobs:
   save-history:
     if: github.event_name != 'pull_request'
     needs: dashboarddown
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -100,4 +102,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: gh issue reopen 53
+      - run: gh issue reopen 1
