@@ -1,9 +1,9 @@
 ---
-title: "CRAN outgoing dashboard"
+title: "Dashboard"
 date: "`r format(Sys.time(), '%F %R UTC%z')`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{CRAN outgoing dashboard}
+  %\VignetteIndexEntry{Dashboard}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
