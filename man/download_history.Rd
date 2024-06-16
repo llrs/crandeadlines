@@ -8,14 +8,11 @@ download_history()
 }
 \value{
 A `data.frame` with columns:
-- `package`: the package name
-- `version`: the package submitted version
-- `snapshot_time`: time of the \pkg{cransays} snapshot, in `"Europe/Vienna"`
-timezone, same, as the CRAN servers.
-- `folder`: folder where the submitted package is stored at the time of the
-snapshot
-- `subfolder`: subfolder where the submitted package is stored at the time of
-the snapshot
+- `Package`: the package name
+- `Deadline`: the package deadline.
+- `Maintainer`: The name of the maintainer.
+- `Packages`: The name of all the packages that depend on it.
+- `Dependencies`: The number of packages that depend on it.
 - `submission_time`: time when the package was submitted to CRAN, in
 `"Europe/Vienna"` timezone, same as the CRAN servers
 }

@@ -29,7 +29,7 @@ cran_deadlines <- crandeadlines::take_snapshot()
 cran_deadlines$Packages <- sapply(cran_deadlines$Packages, paste0, collapse = ", ")
 # Remove the list of packages that depend on them.
 write.table(cran_deadlines,
-            paste0("cran-outgoing-v1-", format(Sys.time(), "%Y%m%dT%H%M"), ".csv"),
+            paste0("cran-outgoing-v2-", format(Sys.time(), "%Y%m%dT%H%M"), ".csv"),
             row.names = FALSE,
             quote = FALSE,
             sep = "\t",

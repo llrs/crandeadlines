@@ -31,6 +31,7 @@ take_snapshot <- function(){
 
   has_deadline$Packages <- recursive_revdeps(has_deadline$Package)
   has_deadline$Dependencies <- lengths(has_deadline$Packages)
+  has_deadline$Snapshot <- Sys.time()
 
   arrange(has_deadline, Deadline, -Dependencies)
 
