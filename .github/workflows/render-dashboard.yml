@@ -55,6 +55,8 @@ jobs:
   # Deployment job
   deploy:
     if: github.event_name != 'pull_request'
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
