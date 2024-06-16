@@ -1,0 +1,23 @@
+Package: crandeadlines
+Title: Creates an Overview of CRAN Deadlines
+Version: 0.0.0.9000
+Authors@R: person("Lluís", "Revilla Sancho", email = "lluis.revilla@gmail.com",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9747-2570"))
+Description: Display and stores the CRAN deadlines and its impact on packages.
+License: MIT + file LICENSE
+URL: https://github.com/llrs/crandeadlines, https://llrs.github.io/crandeadlines/
+BugReports: https://github.com/llrs/crandeadlines/issues
+Imports: 
+    dplyr,
+    tools,
+    utils
+Suggests: 
+    knitr,
+    reactable,
+    pkgdown,
+    rmarkdown
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+RoxygenNote: 7.3.1

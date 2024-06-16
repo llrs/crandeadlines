@@ -1,0 +1,103 @@
+on:
+  push:
+    branches:
+      - master
+      - main
+      - default
+  pull_request:
+    branches:
+      - master
+      - main
+      - default
+  schedule:
+    - cron:  '0 */1 * * *'
+  workflow_dispatch:
+
+name: Render-dashboard
+
+jobs:
+  dashboarddown:
+    name: Render-dashboard
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          install-r: false
+          use-public-rspm: true
+          r-version: 4
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: any::pkgdown, local::.
+          needs: website
+
+      - name: Build site
+        run: pkgdown::build_site_github_pages(new_process = FALSE, install = TRUE)
+        shell: Rscript {0}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./docs
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: latest-waitinglist-data
+          retention-days: 5
+          path: vignettes/cran-outgoing-*.csv
+
+  # Deployment job
+  deploy:
+    if: github.event_name != 'pull_request'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: dashboarddown
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+
+  save-history:
+    if: github.event_name != 'pull_request'
+    needs: dashboarddown
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: history
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: latest-waitinglist-data
+
+      - name: Commit historical data
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add cran-outgoing-*.csv
+          git commit -m 'new data'
+          git push
+          echo "pushed to github"
+
+  open-issue:
+    needs: [dashboarddown, save-history]
+    if: failure() && github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: gh issue reopen 53

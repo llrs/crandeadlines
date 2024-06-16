@@ -1,0 +1,13 @@
+^renv$
+^renv\.lock$
+^\.github$
+^CODE_OF_CONDUCT\.md$
+^tic\.R$
+^appveyor\.yml$
+^\.travis\.yml$
+^docs$
+^_pkgdown\.yml$
+^LICENSE\.md$
+^.*\.Rproj$
+^\.Rproj\.user$
+^cran-outgoing-*

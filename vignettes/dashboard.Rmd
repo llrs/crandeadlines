@@ -1,0 +1,49 @@
+---
+title: "Dashboard"
+date: "`r format(Sys.time(), '%F %R UTC%z')`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Dashboard}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  warning = FALSE,
+  message = FALSE,
+  echo = FALSE
+)
+```
+
+The data in this table stems from our querying the deadlines set by CRAN.
+
+<img src="https://github.com/llrs/crandeadlines/workflows/Render-dashboard/badge.svg" aria-hidden="true">
+
+# Dashboard
+
+```{r get-data}
+cran_deadlines <- crandeadlines::take_snapshot()
+cran_deadlines$Packages <- sapply(cran_deadlines$Packages, paste0, collapse = ", ")
+# Remove the list of packages that depend on them.
+write.table(cran_deadlines,
+            paste0("cran-outgoing-v1-", format(Sys.time(), "%Y%m%dT%H%M"), ".csv"),
+            row.names = FALSE,
+            quote = FALSE,
+            sep = "\t",
+)
+```
+
+```{r dashboard}
+cran_deadlines$Packages <- NULL
+library("reactable")
+
+reactable(
+  cran_deadlines,
+  filterable = TRUE,
+  defaultPageSize = 50
+)
+```
+
