@@ -1,0 +1,82 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+robustbase	2024-08-18	Martin Maechler	BIGL, bigleaf, bigutilsr, biwt, BMA, bulletr, cauphy, ccaPP, cellWise, CerioliOutlierDetection, chemometrics, chipPCR, classmap, complmrob, compositions, crmReg, cvTools, dataMaid, dataquieR, dataReporter, ddalpha, DeCAFS, DetMCD, DetR, dfphase1, dmbc, dmm, enetLTS, envoutliers, epmrob, ergm, facmodCS, facmodTS, fAssets, fMRIscrub, fpc, fPortfolio, funcharts, georob, geoTS, Gmedian, GNSSseg, groc, GSE, GWmodel, highfrequency, hpiR, invacost, IRon, JWileymisc, KRMM, L2E, lessR, lolR, MAINT.Data, MALDIrppa, mastif, MBmca, MendelianRandomization, metRology, MixSemiRob, MKmisc, MKomics, mmiCATs, movieROC, mrct, MRZero, mvMonitoring, mvoutlier, MVTests, otrimle, OutliersO3, pcalg, pchc, PCRA, perryExamples, PhylogeneticEM, PlasmaMutationDetector, PlasmaMutationDetector2, PRANA, PupilPre, pyinit, qGaussian, qpcR, qqconf, qqplotr, RcmdrPlugin.PcaRobust, RCTS, regrrr, rlme, RMSS, roahd, robCompositions, RobExtremes, robfilter, robflreg, robmed, RobMixReg, robnptests, RobPer, robreg3S, RobStatTM, robust, RobustAFT, robustbetareg, robustHD, robustlmm, robustsur, robustvarComp, robustX, rofanova, rospca, rpls, RPPASPACE, rrcov, rrcov3way, rrcovHD, rrcovNA, sdcMicro, semiArtificial, ShapleyOutlier, shotGroups, SOHPIE, SpatialBSS, splithalf, sscor, ssMRCD, ssmrob, StatDA, Taba, tergm, tsqn, TVMM, univOutl, VIM, weird, ModTools, REddyProc, bigsnpr, pcadapt, BCEE, clustvarsel, Ecfun, maclogp, mlogitBMA, nanostringr, ConfidenceEllipse, RDnp, robStepSplitReg, srlars, Arothron, CoDaImpact, codaredistlm, countprop, ggtern, gmGeostats, HybridMicrobiomes, itraxR, metamicrobiomeR, MRPC, multilevelcoda, powerPLS, QFASA, simmr, Toothnroll, Unico, vdar, CenBAR, curvir, FWDselect, GRNNs, l1spectral, mogavs, OPTS, SCtools, STOPES, Anthropometry, curveDepth, pdSpecEst, RepeatedHighDim, TukeyRegion, Bergm, BFpack, bigergm, btergm, dnr, EpiModel, ergm.count, ergm.ego, ergm.multi, ergm.rank, ergMargins, ergmgp, ergmito, fergm, latentnet, mlergm, nemBM, netmediate, RDS, statnet, statnetWeb, tergmLite, VBLPCM, xergm.common, beadplexr, bootcluster, Canek, clusEvol, clusterMI, clustrd, coca, conjoint, dann, DIscBIO, drclust, FADPclust, ICSClust, immunarch, IPCAPS, lsirm12pl, MEGENA, mlr3cluster, NIMAA, nullabor, pathfindR, RaceID, RPANDA, sae.prop, SPARTAAS, stream, truh, tspmeta, wskm, BLCOP, RMOPI, sephora, sta, ctmm, Kmedians, ktaucenters, Compind, GeoWeightedModel, SpatialRegimes, mind, multilevelTools, pscore, CliquePercolation, starvars, MSclassifR, bayes4psy, BayesRS, footBayes, masscor, BiDAG, causalDisco, clustNet, eff2, kpcalg, mDAG, micd, NetCoupler, pcgen, qtlnet, SID, tpc, metap, ARCensReg, asremlPlus, ggResidpanel, MKpower, squat, baker, CMMs, robmedExtra, mvDFA, RPEIF, RPESE, RRBoost, adventr, outliers.ts.oga, gamreg, PAMhm, sparseLTSEigen, bigdatadist, DepthProc, geneticae, ICSShiny, mcrPioda, pmartR, QuadratiK, riv, RobAStBase, robustfa, rstanbdp, TCIU, ExplainPrediction, BSSoverSpace, adamethods, lfproQC, missCompare, onlineBcp, promor, simPop, simputation, BAwiR, morphomap, BANAM, BGGM, Bestie, locStra, PRSPGx, RapidoPGS, klic, amt, ctpm, familial, OptimaRegion, Ecdat, cocktailApp, sjSDM, tricolore, RMBC, collpcm, MEclustnet, DDPNA, CB2, ICDS, metapro, PEACH, mlr3verse, metaviz, regressinator, Neighboot, sspse, REddyProcNCDF, RobLox, ROptEst, RPEGLMEN, rEMM, streamMOA, ITNr, easybgm, DWreg, gk, BioM2, RobLoxBioC, BDWreg	348	2024-08-01 03:18:32.574408
+corrplot	2024-08-18	Taiyun Wei	adproclus, aslib, autoScorecard, BasketballAnalyzeR, bayesGAM, bigtime, BNSP, brsim, cases, CINNA, coda4microbiome, Correlplot, DGP4LCF, drought, dynRB, echarts4r, EcotoneFinder, ExPanDaR, fabMix, factorstochvol, frechet, GoodmanKruskal, grapesAgri1, jSDM, LDLcalc, ldsep, mastif, miceRanger, mixKernel, ModelMap, MultivariateAnalysis, NetworkToolbox, PLNmodels, popstudy, PsychWordVec, RclusTool, Rprofet, RQdeltaCT, rQSAR, rstatix, scRNAtools, SLEMI, Statsomat, TestDimorph, twl, uHMM, varoc, veccompare, metaGE, AutoPlots, discoveR, forecasteR, kerastuneR, loadeR, pedquant, predictoR, regressoR, UnalR, bpgmm, bayesianVARs, bootnet, BiostatsUHNplus, dumbbell, ggpubr, GimmeMyPlot, LongDat, mFD, microbial, microdiluteR, OlinkAnalyze, omu, polimetrics, qPCRhelper, qPCRtools, reportRmd, SqueakR, stats4teaching, tcgaViz, vannstats, vvdoctor, powerly, adestr, agriutilities, ale, AnanseSeurat, AnnoProbe, APCI, APCtools, asmbPLS, baker, BayesianPlatformDesignTimeTrend, BayesMultiMode, bayMDS, bdl, BEAMR, BinMat, BioM2, bmstdr, BNPmix, BREADR, bSi, calibmsm, ClusROC, clustEff, CompAREdesign, conformalInference.fd, convergEU, corx, CovidMutations, Coxmos, crctStepdown, CRMetrics, crosslag, csa, csmpv, cvCovEst, dae, ddtlcm, DEGRE, dfoliatR, did, digitalDLSorteR, diversityForest, dPCP, dtComb, ecocbo, EEAaq, EGAnet, ENMTools, entropart, esmtools, explainer, factoextra, fastai, finnsurveytext, FRK, FuncNN, GABB, geneHapR, geocausal, gfoRmula, ggESDA, ggheatmap, ggquickeda, ggScatRidges, glmmSeq, GNAR, HanStat, hdcuremodels, hdpGLM, heiscore, hilldiv, hJAM, HS, HYPEtools, iCellR, IDEATools, iglu, ImFoR, immunarch, iNEXT.4steps, insane, IRon, jskm, jsmodule, JWileymisc, lehuynh, longreadvqs, LTCDM, mappoly, mc2d, meconetcomp, mecoturn, MERO, MetaIntegrator, metaviz, MF.beta4, missingHE, MSigSeg, MSPRT, multid, neatStats, neonPlantEcology, nlmixr2rpt, OenoKPM, ofpetrial, onemap, OSLdecomposition, packDAMipd, ParBayesianOptimization, pbcc, pctax, powdR, PRECAST, pRecipe, predRupdate, promotionImpact, PUMP, QuadratiK, QurvE, RCTrep, reappraised, reservoirnet, rfVarImpOOB, riskCommunicator, rKOMICS, rnmamod, rPACI, rrtable, rSAFE, RVA, scITD, SCOUTer, scSpatialSIM, SEIRfansy, serocalculator, SHAPforxgboost, ShellChron, sievePH, sigminer, simET, SIPmg, SKFCPD, smplot2, SouthParkRshiny, SpatialDDLS, SRTsim, surtvep, survminer, symptomcheckR, TCIU, TestGardener, tipsae, TOmicsVis, trawl, tRigon, UCSCXenaShiny, UNCOVER, UniprotR, vaccine, VALERIE, vDiveR, vici, viewpoly, vmeasur, voiceR, volcano3D, vsd, vvshiny, WINS, PDXpower, eselect, PPLasso, WLogit, asremlPlus, eda4treeR, edibble, growthPheno, imageData, MultBiplotR, NVCSSL, did2s, optic, latentFactoR, inpdfr, ASRgenomics, compindPCA, disto, drclust, fmf, hclusteasy, ihclust, immcp, interca, jrSiCKLSNMF, KMEANS.KNN, LDABiplots, metaCluster, MissCP, MSmix, PhageCocktail, phoenics, sejmRP, SensMap, statgenHTP, statVisual, SurvHiDim, wilson, WormTensor, UEI, IDE, mind, multilevelTools, pscore, qtlpoly, AnnuityRIR, CloneSeeker, CopulaREMADA, CPP, handwriter, iCARH, OSCV, PRA, rriskDistributions, RSurveillance, stratifyR, Umpire, ProFAST, evapoRe, webr, allMT, AutoScore, BioPred, BRACE, CondiS, FlexVarJM, GFDsurv, GofCens, IDMIR, lilikoi, LongCART, MetabolicSurv, MicrobiomeSurv, MiMIR, NADA2, Oncofilterfast, OneSampleLogRankTest, pathwayTMB, PMAPscore, ProgModule, rcssci, reconstructKM, signatureSurvival, SMDIC, survival666, survivalAnalysis, SurvMetrics, tinyarray, gvcR, decisionSupport	340	2024-08-01 03:18:32.574408
+msm	2024-08-18	Christopher Jackson	ammiBayes, ARCensReg, ARDL, BayesianTools, BayesRGMM, biodosetools, breakpoint, bsam, ccostr, ccrs, CensSpatial, CEoptim, cfda, clustMD, CopCTS, cosa, decisionSupport, DFIT, difNLR, drugdevelopR, EAinference, eatRep, ei, eiPack, elect, endoSwitch, epiphy, EventPredInCure, extrafrail, Families, frailtyEM, gems, gmnl, grmsem, hesim, hmsr, horseshoenlm, httk, hysteresis, ICcalib, interactionR, interactionRCS, ltm, msmtools, OneSampleMR, optBiomarker, oro.pet, PanCanVarSel, parfm, Petersen, pexm, PRIMEplus, Rchoice, riAFTBART, RMark, rriskDistributions, rtdists, scDECO, score, semmcmc, SightabilityModel, simExam, SizeEstimation, sparsereg, SPAS, spBFA, spCP, stochLAB, Surrogate, surrosurv, tradepolicy, TrenchR, TropFishR, varTestnlme, VirtualPop, womblR, wxgenR, bootCT, DPTM, eDITH, DPBBM, SIAmodules, catSurv, CTTShiny, difR, GPCMlasso, hIRT, IMTest, integIRTy, irtoys, irtreliability, IRTShiny, kequate, missCompare, MultIS, PCMRS, PerFit, PsyControl, RSP, subscore, tcl, UPCM, MigConnectivity, multimark, R2ucare, DstarM, mlmpower, DIFshiny, ShinyItemAnalysis, TestAnaAPP, irtGUI, shinyIRT	112	2024-08-01 03:18:32.574408
+rio	2024-08-18	Chung-hong Chan	allMT, boxr, bruceR, childfree, cloudstoR, datamods, dataquieR, DistPlotter, dpmr, editData, epiCleanr, estadistica, ExPanDaR, framecleaner, genogeographer, gesisdata, heterogen, IGoRRR, importinegi, ISRaD, kibior, lehuynh, metaConvert, mmstat4, NormalityAssessment, normfluodbf, octopus, pewdata, PRISMA2020, psData, ropercenter, rUM, tfrmtbuilder, welo, ChineseNames, PsychWordVec, TestAnaAPP, esquisse, moreparty, safetyGraphics, vvdoctor, ggplotAssist, rrtable, SemNetCleaner, autostats, presenter, tidybins, TidyConsultant, validata, shinyrecipes, webr, scicomptools	52	2024-08-01 03:18:32.574408
+flexsurv	2024-08-18	Christopher Jackson	AHSurv, AmoudSurv, bayesCureRateModel, CopulaCenR, Countr, cyclomort, debest, doublIn, easysurv, educineq, eventPred, EventPredInCure, flexsurvcure, gompertztrunc, HCTDesign, hdcuremodels, hesim, mixcure, mlt.docreg, MNB, OneArm2stage, parmsurvfit, parTimeROC, psm3mkv, reslife, rocTree, Surrogate, surv2sampleComp, survHE, survivalSL, vsd, drugDemand	32	2024-08-01 03:18:32.574408
+arrow	2024-08-18	Jonathan Keane	APCalign, bigrquerystorage, censobr, ClickHouseHTTP, diffdfs, disk.frame, DominoDataR, ebirdst, Eunomia, foundry, gbifdb, geslaR, IGoRRR, MolgenisArmadillo, nhdplusTools, overturemapsr, parqr, parquetize, pysparklyr, radiant.data, sfarrow, SQL, strand, TKCat, gwavr, radiant, radiant.basics, radiant.design, radiant.model, radiant.multivariate	30	2024-08-01 03:18:32.574408
+kyotil	2024-08-18	Youyi Fong	chngpt, krm, robustrank, copcor, FSDAM, mdw, InteractionPoweR, pssmooth	8	2024-08-01 03:18:32.574408
+sas7bdat	2024-08-18	Matt Shotwell	BEACH, rfars, stpm	3	2024-08-01 03:18:32.574408
+archivist	2024-08-18	Przemyslaw Biecek	archivist.github, modelDown	2	2024-08-01 03:18:32.574408
+tensorEVD	2024-08-18	Marco Lopez-Cruz	SFSI	1	2024-08-01 03:18:32.574408
+tidycmprsk	2024-08-18	Daniel D. Sjoberg	autoReg	1	2024-08-01 03:18:32.574408
+admiralvaccine	2024-08-18	Sukalpo Saha		0	2024-08-01 03:18:32.574408
+algaeClassify	2024-08-18	Vijay Patil		0	2024-08-01 03:18:32.574408
+bggAnalytics	2024-08-18	Jakub Bujnowicz		0	2024-08-01 03:18:32.574408
+BOSO	2024-08-18	Luis V. Valcarcel		0	2024-08-01 03:18:32.574408
+casebase	2024-08-18	Sahir Bhatnagar		0	2024-08-01 03:18:32.574408
+condusco	2024-08-18	Roland Stevenson		0	2024-08-01 03:18:32.574408
+cregg	2024-08-18	Thomas J. Leeper		0	2024-08-01 03:18:32.574408
+CTD	2024-08-18	Varduhi Petrosyan		0	2024-08-01 03:18:32.574408
+dhlabR	2024-08-18	Ingerid Dale		0	2024-08-01 03:18:32.574408
+ecoreg	2024-08-18	Christopher Jackson		0	2024-08-01 03:18:32.574408
+googleAnalyticsR	2024-08-18	Mark Edmondson		0	2024-08-01 03:18:32.574408
+ICDS	2024-08-18	Junwei Han		0	2024-08-01 03:18:32.574408
+incubate	2024-08-18	Matthias Kuhn		0	2024-08-01 03:18:32.574408
+mdw	2024-08-18	Youyi Fong		0	2024-08-01 03:18:32.574408
+mnis	2024-08-18	Evan Odell		0	2024-08-01 03:18:32.574408
+netgsa	2024-08-18	Michael Hellstern		0	2024-08-01 03:18:32.574408
+observer	2024-08-18	Paul Poncet		0	2024-08-01 03:18:32.574408
+PANPRSnext	2024-08-18	Katherine Luo		0	2024-08-01 03:18:32.574408
+phenofit	2024-08-18	Dongdong Kong		0	2024-08-01 03:18:32.574408
+PKPDsim	2024-08-18	Ron Keizer		0	2024-08-01 03:18:32.574408
+pubh	2024-08-18	Josie Athens		0	2024-08-01 03:18:32.574408
+SFSI	2024-08-18	Marco Lopez-Cruz		0	2024-08-01 03:18:32.574408
+stationery	2024-08-18	Paul Johnson		0	2024-08-01 03:18:32.574408
+surface	2024-08-18	Travis Ingram		0	2024-08-01 03:18:32.574408
+timeplyr	2024-08-18	Nick Christofides		0	2024-08-01 03:18:32.574408
+UKB.COVID19	2024-08-18	Longfei Wang		0	2024-08-01 03:18:32.574408
+viraldomain	2024-08-18	Juan Pablo Acuña González		0	2024-08-01 03:18:32.574408
+wgaim	2024-08-18	Julian Taylor		0	2024-08-01 03:18:32.574408
+bold	2024-08-19	Salix Dubois	datelife, refdb, taxize, algaeClassify, bdvis, CALANGO, helminthR, insectDisease, LocaTT, metacoder, MonoPhy, myTAI, occCite, OpenTreeChronograms, rusda, TR8, traits, GaMaBioMD	18	2024-08-01 03:18:32.574408
+hunspell	2024-08-19	Jeroen Ooms	acroname, BrailleR, rjtools, spelling, TeXCheckR, textstem, ulex, texor, causal.decomp, exams.forge, ypssc, akc, doc2concrete, MetaNLP, poldis	15	2024-08-01 03:18:32.574408
+mlr3learners	2024-08-19	Marc Becker	DoubleML, GenericML, highMLR, mlr3fairness, mlr3shiny, mlr3verse, sense, spFSR, BioM2	9	2024-08-01 03:18:32.574408
+arcpbf	2024-08-19	Josiah Parry	arcgislayers, arcgis, FedData	3	2024-08-01 03:18:32.574408
+revdbayes	2024-08-19	Paul J. Northrop	lax, lite, threshr	3	2024-08-01 03:18:32.574408
+WeightIt	2024-08-19	Noah Greifer	CIMTx, MatchThem, mvGPS	3	2024-08-01 03:18:32.574408
+gtfstools	2024-08-19	Daniel Herszenhut	gtfs2gps, gtfs2emis	2	2024-08-01 03:18:32.574408
+redist	2024-08-19	Christopher T. Kenny	alarmdata, redistverse	2	2024-08-01 03:18:32.574408
+Require	2024-08-19	Eliot J B McIntire	SpaDES.core, SpaDES	2	2024-08-01 03:18:32.574408
+stplanr	2024-08-19	Robin Lovelace	agricolaeplotr, pct	2	2024-08-01 03:18:32.574408
+DWDLargeR	2024-08-19	Kim-Chuan Toh	diproperm	1	2024-08-01 03:18:32.574408
+IPDFileCheck	2024-08-19	Sheeja Manchira Krishnan	packDAMipd	1	2024-08-01 03:18:32.574408
+Superpower	2024-08-19	Aaron Caldwell	JustifyAlpha	1	2024-08-01 03:18:32.574408
+alcyon	2024-08-19	Petros Koutsolampros		0	2024-08-01 03:18:32.574408
+AROC	2024-08-19	Maria Xose Rodriguez-Alvarez		0	2024-08-01 03:18:32.574408
+ATQ	2024-08-19	Vinay Joshy		0	2024-08-01 03:18:32.574408
+bsvarSIGNs	2024-08-19	Xiaolei Wang		0	2024-08-01 03:18:32.574408
+celltrackR	2024-08-19	Johannes Textor		0	2024-08-01 03:18:32.574408
+exampletestr	2024-08-19	Rory Nolan		0	2024-08-01 03:18:32.574408
+IceSat2R	2024-08-19	Lampros Mouselimis		0	2024-08-01 03:18:32.574408
+iClusterVB	2024-08-19	Abdalkarim Alnajjar		0	2024-08-01 03:18:32.574408
+malariaAtlas	2024-08-19	Mauricio van den Berg		0	2024-08-01 03:18:32.574408
+metajam	2024-08-19	Julien Brun		0	2024-08-01 03:18:32.574408
+moocore	2024-08-19	Manuel López-Ibáñez		0	2024-08-01 03:18:32.574408
+noaaoceans	2024-08-19	Sean Warlick		0	2024-08-01 03:18:32.574408
+odbr	2024-08-19	Haydee Svab		0	2024-08-01 03:18:32.574408
+otargen	2024-08-19	Amir Feizi		0	2024-08-01 03:18:32.574408
+PaRe	2024-08-19	Maarten van Kessel		0	2024-08-01 03:18:32.574408
+pastboon	2024-08-19	Mohammad Taheri-Ledari		0	2024-08-01 03:18:32.574408
+piecepackr	2024-08-19	Trevor L Davis		0	2024-08-01 03:18:32.574408
+portfolio	2024-08-19	Daniel Gerlanc		0	2024-08-01 03:18:32.574408
+psidR	2024-08-19	Florian Oswald		0	2024-08-01 03:18:32.574408
+qlcVisualize	2024-08-19	Michael Cysouw		0	2024-08-01 03:18:32.574408
+qualtRics	2024-08-19	Julia Silge		0	2024-08-01 03:18:32.574408
+quanteda.textplots	2024-08-19	Kenneth Benoit		0	2024-08-01 03:18:32.574408
+ready4	2024-08-19	Matthew Hamilton		0	2024-08-01 03:18:32.574408
+sampcompR	2024-08-19	Bjoern Rohr		0	2024-08-01 03:18:32.574408
+semnar	2024-08-19	Ioannis Kosmidis		0	2024-08-01 03:18:32.574408
+speakeasyR	2024-08-19	David Connell		0	2024-08-01 03:18:32.574408
+StrucDiv	2024-08-19	Leila Schuh		0	2024-08-01 03:18:32.574408
+WES	2024-08-19	John R Giles		0	2024-08-01 03:18:32.574408
+wikkitidy	2024-08-19	Michael Falk		0	2024-08-01 03:18:32.574408
