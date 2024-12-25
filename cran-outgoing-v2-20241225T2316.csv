@@ -1,0 +1,161 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+CoFRA	2024-12-20	Rune Matthiesen		0	2024-12-25 23:16:53.685903
+covid19brazil	2024-12-20	Alexandre Loures		0	2024-12-25 23:16:53.685903
+zerotradeflow	2024-12-20	Alexandre Loures		0	2024-12-25 23:16:53.685903
+pkgdown	2024-12-24	Hadley Wickham	CALANGO, devtools, washr, activPAL, AHM, aMNLFA, AmpGram, anyLib, asremlPlus, BEACH, biospear, bisectr, BrailleR, CancerGram, changer, checkhelper, CompMix, coronavirus, covid19brazil, covid19italy, covid19sf, covid19swiss, creditr, crt2power, D2MCS, dartRverse, dataCompare, datr, easypackages, Elja, EpiSemble, EvoPhylo, fairness, FastUtils, fgitR, func2vis, fusen, GB5mcPred, githubinstall, gscaLCA, GSSTDA, HanStat, hlaR, LDNN, link2GI, macroBiome, margaret, MazamaCoreUtils, mcbette, MF.beta4, miscset, modelDown, netmhc2pan, newsanchor, nmadb, NoviceDeveloperResources, OhdsiShinyAppBuilder, OpEnHiMR, ordinalbayes, OVtool, penppml, personalr, PFIM, pkgverse, populationPDXdesign, psdr, pureseqtmr, qcapower, RadEro, rcompendium, rdomains, rdoxygen, riskmetric, RivRetrieve, roxygen2md, SCEM, SherlockHolmes, spRingsteen, srcpkgs, testthis, thinkr, understandBPMN, valuemap, dsld, uavRmp, AirMonitor, MazamaLocationUtils, MazamaSpatialPlots, MazamaSpatialUtils, MazamaTimeSeries, NoviceDeveloperResources2	91	2024-12-25 23:16:53.685903
+picasso	2024-12-25	Jason Ge	sparsevar, MissCP, VARDetect	3	2024-12-25 23:16:53.685903
+Rfast	2025-01-10	Manos Papadakis	adass, autoMFA, bivpois, bltm, cauchypca, CCd, CICA, clusterMI, cols, Compositional, CompositionalML, CompositionalRF, consrq, corrfuns, CPC, cpmr, cpss, CptNonPar, Cronbach, datanugget, dcortools, dcorVS, dCovTS, deepMOU, Directional, DrDimont, dyads, epilogi, fastFMM, fitlandr, frscore, fsn, funcharts, glmtoolbox, gMOIP, gp, GPCERF, handwriter, highd2means, imbalanceDatRel, IMIFA, irtQ, jenga, kDGLM, lmap, mbr, metaGE, metaplus, MetSizeR, mfpp, micd, mixgb, mixpoissonreg, MLE, mlmts, MN, mrfse, mvcauchy, mvcor, mvhtests, naive, nda, nebula, nestedcv, NetFACS, NetSci, NGBVS, nlgm, NNS, obfuscatoR, OPI, pchc, phylotypr, phylter, PNAR, ppsbm, PRSPGx, QUALYPSO, RAINBOWR, randomLCA, RankAggSIgFUR, rcccd, RDM, regda, Rfast2, robqda, Rogue, Rtropical, rvMF, scoredec, segen, SelectBoost, sensobol, shinyExprPortal, simDAG, skedastic, smartsnp, SmoothWin, SMOTEWB, spaceNet, sparseCov, speaq, Spectrum, SteppedPower, success, tame, tetragon, tidyclust, TML, truh, TSCI, twl, volcano3D, VoxR, WRI, wTO, QFASA, PPbigdata, WCluster, HDiR, pgKDEsphere, pcds, modgo, handwriterApp, handwriterRF, practicalSigni, RandomWalker, choosepc, crwbmetareg, geppe, TreeSearch, Patterns, MMOC, FORTLS, nnspat, pcds.ugraph, healthyverse	137	2024-12-25 23:16:53.685903
+geometry	2025-01-10	David C. Sterratt	alphashape3d, archetypal, archiDART, Arothron, BAT, betapart, blackbox, caRamel, cati, ChestVolume, ClaimsProblems, contoureR, CoopGame, curvHDR, ddalpha, DepthProc, DiceView, dispRity, EthSEQ, EvolutionaryGames, FD, FEA, fundiversity, gensphere, GeomArchetypal, gMOIP, GWSDAT, habtools, HybridMicrobiomes, hypervolume, Infusion, latentcor, Maeswrap, MBHdesign, mFD, modQR, Momocs, morphomap, mrfDepth, MultBiplotR, mvGPS, mvmesh, nonparaeff, pavo, pdfCluster, ProjectionBasedClustering, quadmesh, randomGLM, RegCombin, RepeatedHighDim, RoundAndRound, Rpolyhedra, rTwig, spaMM, SpatialfdaR, STEPCAM, TCIU, Toothnroll, ucie, Umatrix, VoxR, ashapesampler, LOMAR, divraster, red, ausplotsR, bivariatemaps, CommEcol, phyloregion, GTbasedIM, Anthropometry, curveDepth, pdSpecEst, TukeyRegion, familial, OptimaRegion, treats, EcoIndR, ecospace, gawdis, geosptdb, hillR, idar, pez, Select, SYNCSA, pcds, Ostats, raptr, mixedCCA, rospca, mvhist, SphericalCubature, Compind, recolorize, ftsa, SaturnCoefficient, smacofx, spex, IsoriX, NCC, FORTLS, adamethods, BAwiR, demography, RcmdrPlugin.RiskDemo, Rfssa, wwntests, chemodiv, nnspat, pcds.ugraph, canaper, gecko, cops, stops, ETRep, PCPS, popstudy, SEERaBomb	119	2024-12-25 23:16:53.685903
+doRNG	2025-01-10	Renaud Gaujoux	adjustedCurves, autoMrP, bestNormalize, bhmbasket, bigsnpr, BSL, CDatanet, CICI, clustcurv, condSURV, Counterfactual, deltaccd, drugDemand, DynForest, ellipticalsymmetry, envi, EPX, evinf, ewoc, exuber, fabisearch, fect, FLORAL, funGp, gbts, GeDS, gratis, gsynth, hwep, hybridModels, kmBlock, latentcor, lcc, LSEbootLS, mclustAddons, MCPModBC, Mediana, metaplus, midasml, missForest, momentuHMM, mplot, nebula, PartialNetwork, randomLCA, redist, RobGARCHBoot, robmixglm, Robyn, rpm, rsides, segtest, seqimpute, skpr, sparrpowR, SparseMDC, sphunif, StochBlock, survidm, tglkmeans, TRexSelector, updog, varclust, WebGestaltR, LongDat, phytoclass, povmap, RESIDE, basksim, locStra, PRSPGx, RapidoPGS, cenROC, mixedCCA, ADAPTS, bartMachine, funspace, FuzzyImputationTest, GenoPop, highMLR, imanr, imp4p, KarsTS, longit, MERO, missCompare, obliqueRSF, promor, simputation, speaq, alarmdata, redistverse, ridgetorus, scMappR, bartMan, EnsembleBase, iBART, mi4p, EnsembleCV, EnsemblePCReg, EnsemblePenReg	101	2024-12-25 23:16:53.685903
+distr	2025-01-10	Peter Ruckdeschel	distrDoc, distrEllipse, distrEx, distrMod, distrRmetrics, distrSim, distrTeach, EDOIF, fastglmpca, funStatTest, genlogis, mediationsens, meteR, miCoPTCM, moderate.mediation, RandVar, RcmdrPlugin.TeachStat, RobAStBase, RobExtremes, RobLox, RobLoxBioC, ROptEst, GJRM, distrTEst, BRBVS, flexmsm, micemd, penfa, clusterMI	29	2024-12-25 23:16:53.685903
+ParamHelpers	2025-01-10	Jakob Richter	aslib, CEGO, cmaesr, ecr, EFAfactors, glmnetr, mlr, mlrCPO, mlrMBO, roseRF, smoof, tramnet, tuneRanger, varycoef, mcMST, flacco, ipfr, latentFactoR, live, llama, nsga3, OOBCurve, RBPcurve, RobustPrediction, seqimpute	25	2024-12-25 23:16:53.685903
+ggiraph	2025-01-10	David Gohel	bartMan, bullseye, gg1d, ggfacto, ggiraphExtra, LipidomicsR, microhaplot, PieGlyph, qPRAentry, RandomWalker, saros, shinyCohortBuilder, TimeVizPro, toxSummary, EIX, otargen, predict3d, DImodelsVis, healthyverse	19	2024-12-25 23:16:53.685903
+networkLite	2025-01-10	Samuel Jenness	EpiModel, networkDynamic, ergmgp, ITNr, ndtv, netdiffuseR, networkDynamicData, PAFit, statnet, tergm, tergmLite, tsna	12	2024-12-25 23:16:53.685903
+metRology	2025-01-10	Stephen L R Ellison	bayes4psy, BayesRS, footBayes, masscor, poems, epizootic, paleopop	7	2024-12-25 23:16:53.685903
+HMDHFDplus	2025-01-10	Tim Riffe	demography, VirtualPop, vital, popstudy, RcmdrPlugin.RiskDemo, SEERaBomb	6	2024-12-25 23:16:53.685903
+REDCapR	2025-01-10	Will Beasley	REDCapCAST, REDCapDM, REDCapTidieR, ReviewR, tidyREDCap	5	2024-12-25 23:16:53.685903
+isotree	2025-01-10	David Cortes	bulkQC, ifCNVR, itsdm, reverseR	4	2024-12-25 23:16:53.685903
+rAmCharts	2025-01-10	Benoit Thieurmel	antaresViz, linkspotter, opera, Bodi	4	2024-12-25 23:16:53.685903
+Rmpi	2025-01-10	Hao Yu	bigGP, doMPI, regRSM, moc.gapbk	4	2024-12-25 23:16:53.685903
+EnsembleBase	2025-01-10	Alireza S. Mahani	EnsembleCV, EnsemblePCReg, EnsemblePenReg	3	2024-12-25 23:16:53.685903
+xpose	2025-01-10	Benjamin Guiastrennec	nlmixr2rpt, xpose.nlmixr2, xpose.xtras	3	2024-12-25 23:16:53.685903
+nplr	2025-01-10	Frederic Commo	MALDIcellassay, PvSTATEM	2	2024-12-25 23:16:53.685903
+tidyquant	2025-01-10	Matt Dancho	sweep, anomalize	2	2024-12-25 23:16:53.685903
+BIOMASS	2025-01-10	Dominique Lamonica	forestdynR	1	2024-12-25 23:16:53.685903
+CAST	2025-01-10	Hanna Meyer	meteo	1	2024-12-25 23:16:53.685903
+CorMID	2025-01-10	Jan Lisec	HiResTEC	1	2024-12-25 23:16:53.685903
+DDoutlier	2025-01-10	Jacob H. Madsen	Statsomat	1	2024-12-25 23:16:53.685903
+EMCluster	2025-01-10	Wei-Chen Chen	MixfMRI	1	2024-12-25 23:16:53.685903
+GauPro	2025-01-10	Collin Erickson	comparer	1	2024-12-25 23:16:53.685903
+HMMpa	2025-01-10	Ronja Foraita	coconots	1	2024-12-25 23:16:53.685903
+inspectdf	2025-01-10	Alastair Rushworth	bulkreadr	1	2024-12-25 23:16:53.685903
+lordif	2025-01-10	Seung W. Choi	TestAnaAPP	1	2024-12-25 23:16:53.685903
+MultAlloc	2025-01-10	Jose Brito	stratvns	1	2024-12-25 23:16:53.685903
+quickPWCR	2025-01-10	Xiaohao Yang	streetscape	1	2024-12-25 23:16:53.685903
+reportRmd	2025-01-10	Lisa Avery	BiostatsUHNplus	1	2024-12-25 23:16:53.685903
+rolog	2025-01-10	Matthias Gondan	mathml	1	2024-12-25 23:16:53.685903
+tidymv	2025-01-10	Stefano Coretta	rticulate	1	2024-12-25 23:16:53.685903
+tidytreatment	2025-01-10	Joshua J Bon	bartMan	1	2024-12-25 23:16:53.685903
+twitteR	2025-01-10	Jeff Gentry	TwitterAutomatedTrading	1	2024-12-25 23:16:53.685903
+vines	2025-01-10	Yasser Gonzalez-Fernandez	copulaedas	1	2024-12-25 23:16:53.685903
+ABCp2	2025-01-10	M. Catherine Duryea		0	2024-12-25 23:16:53.685903
+additiveDEA	2025-01-10	Andreas Diomedes Soteriades		0	2024-12-25 23:16:53.685903
+APCalign	2025-01-10	Daniel Falster		0	2024-12-25 23:16:53.685903
+aPEAR	2025-01-10	Ieva Kerseviciute		0	2024-12-25 23:16:53.685903
+AssetAllocation	2025-01-10	Alexandre Rubesam		0	2024-12-25 23:16:53.685903
+AssocAFC	2025-01-10	Khalid B. Kunji		0	2024-12-25 23:16:53.685903
+BayesMixSurv	2025-01-10	Alireza S. Mahani		0	2024-12-25 23:16:53.685903
+BRugs	2025-01-10	Uwe Ligges		0	2024-12-25 23:16:53.685903
+CAESAR.Suite	2025-01-10	Xiao Zhang		0	2024-12-25 23:16:53.685903
+CalSim	2025-01-10	Johannes Resin		0	2024-12-25 23:16:53.685903
+CauchyCP	2025-01-10	Hong Zhang		0	2024-12-25 23:16:53.685903
+CCTpack	2025-01-10	Royce Anders		0	2024-12-25 23:16:53.685903
+CHFF	2025-01-10	Kyle A. Caudle		0	2024-12-25 23:16:53.685903
+cnum	2025-01-10	Elgar Teo		0	2024-12-25 23:16:53.685903
+COCONUT	2025-01-10	Timothy E Sweeney		0	2024-12-25 23:16:53.685903
+codebook	2025-01-10	Ruben Arslan		0	2024-12-25 23:16:53.685903
+ConConPiWiFun	2025-01-10	Robin Girard		0	2024-12-25 23:16:53.685903
+ctmcmove	2025-01-10	Ephraim Hanks		0	2024-12-25 23:16:53.685903
+customizedTraining	2025-01-10	Scott Powers		0	2024-12-25 23:16:53.685903
+Dark	2025-01-10	Jeremiah MF Kelly		0	2024-12-25 23:16:53.685903
+dartR	2025-01-10	Bernd Gruber		0	2024-12-25 23:16:53.685903
+dhh	2025-01-10	Runlong Tang		0	2024-12-25 23:16:53.685903
+dhis2r	2025-01-10	Robinson Amanyiraho		0	2024-12-25 23:16:53.685903
+dimRed	2025-01-10	Guido Kraemer		0	2024-12-25 23:16:53.685903
+DNH4	2025-01-10	Chanyub Park		0	2024-12-25 23:16:53.685903
+DNLC	2025-01-10	Yusheng Ding		0	2024-12-25 23:16:53.685903
+Dodge	2025-01-10	A. Jonathan R. Godfrey		0	2024-12-25 23:16:53.685903
+ecdata	2025-01-10	Joshua Allen		0	2024-12-25 23:16:53.685903
+eHOF	2025-01-10	Florian Jansen		0	2024-12-25 23:16:53.685903
+EmbedSOM	2025-01-10	Mirek Kratochvil		0	2024-12-25 23:16:53.685903
+epiCo	2025-01-10	Juan D. Umaña		0	2024-12-25 23:16:53.685903
+eulerian	2025-01-10	Ashis Saha		0	2024-12-25 23:16:53.685903
+fasjem	2025-01-10	Beilun Wang		0	2024-12-25 23:16:53.685903
+fcaR	2025-01-10	Domingo Lopez Rodriguez		0	2024-12-25 23:16:53.685903
+fdaPDE	2025-01-10	Eleonora Arnone		0	2024-12-25 23:16:53.685903
+fedmatch	2025-01-10	Chris Webster		0	2024-12-25 23:16:53.685903
+fluxfinder	2025-01-10	Stephanie Wilson		0	2024-12-25 23:16:53.685903
+gdm	2025-01-10	Matt Fitzpatrick		0	2024-12-25 23:16:53.685903
+htmldf	2025-01-10	Alastair Rushworth		0	2024-12-25 23:16:53.685903
+IntNMF	2025-01-10	Prabhakar Chalise		0	2024-12-25 23:16:53.685903
+IP	2025-01-10	Thomas Soubiran		0	2024-12-25 23:16:53.685903
+IsotopeR	2025-01-10	Jake Ferguson		0	2024-12-25 23:16:53.685903
+KaradaColor	2025-01-10	Masaki Fujishima		0	2024-12-25 23:16:53.685903
+lmap	2025-01-10	Mark de Rooij		0	2024-12-25 23:16:53.685903
+LncPath	2025-01-10	Junwei Han		0	2024-12-25 23:16:53.685903
+LRcontrast	2025-01-10	Kevin Kokot		0	2024-12-25 23:16:53.685903
+lrmest	2025-01-10	Ajith Dissanayake		0	2024-12-25 23:16:53.685903
+LTRCforests	2025-01-10	Weichi Yao		0	2024-12-25 23:16:53.685903
+marquee	2025-01-10	Thomas Lin Pedersen		0	2024-12-25 23:16:53.685903
+memochange	2025-01-10	Kai Wenger		0	2024-12-25 23:16:53.685903
+msBP	2025-01-10	Antonio Canale		0	2024-12-25 23:16:53.685903
+msgpackR	2025-01-10	Mikiya TANIZAWA		0	2024-12-25 23:16:53.685903
+MultiRR	2025-01-10	Yimen G. Araya-Ajoy		0	2024-12-25 23:16:53.685903
+netdiffuseR	2025-01-10	George Vega Yon		0	2024-12-25 23:16:53.685903
+NetSwan	2025-01-10	Serge Lhomme		0	2024-12-25 23:16:53.685903
+NLRoot	2025-01-10	Zheng Sengui<1225620446@qq.com>		0	2024-12-25 23:16:53.685903
+npmv	2025-01-10	Amanda Ellis		0	2024-12-25 23:16:53.685903
+optpart	2025-01-10	David W. Roberts		0	2024-12-25 23:16:53.685903
+OralOpioids	2025-01-10	Ankona Banerjee		0	2024-12-25 23:16:53.685903
+paleopop	2025-01-10	July Pilowsky		0	2024-12-25 23:16:53.685903
+pco	2025-01-10	Georgi Marinov		0	2024-12-25 23:16:53.685903
+PvSTATEM	2025-01-10	Tymoteusz Kwiecinski		0	2024-12-25 23:16:53.685903
+readxlsb	2025-01-10	Michael Allen		0	2024-12-25 23:16:53.685903
+RFpredInterval	2025-01-10	Cansu Alakus		0	2024-12-25 23:16:53.685903
+ridittools	2025-01-10	Eric Bohlman		0	2024-12-25 23:16:53.685903
+rineq	2025-01-10	Kaspar Meili		0	2024-12-25 23:16:53.685903
+RPPairwiseDesign	2025-01-10	Mohamed Laib		0	2024-12-25 23:16:53.685903
+rwc	2025-01-10	Ephraim M. Hanks		0	2024-12-25 23:16:53.685903
+scorematchingad	2025-01-10	Kassel Liam Hingee		0	2024-12-25 23:16:53.685903
+SI	2025-01-10	Jinhong Du		0	2024-12-25 23:16:53.685903
+smoothAPC	2025-01-10	Alexander Dokumentov		0	2024-12-25 23:16:53.685903
+spaa	2025-01-10	Jinlong Zhang		0	2024-12-25 23:16:53.685903
+sparsevb	2025-01-10	Gabriel Clara		0	2024-12-25 23:16:53.685903
+stopdetection	2025-01-10	McCool Danielle		0	2024-12-25 23:16:53.685903
+suRtex	2025-01-10	Dustin Landers		0	2024-12-25 23:16:53.685903
+TeachNet	2025-01-10	Georg Steinbuss		0	2024-12-25 23:16:53.685903
+tidyclust	2025-01-10	Emil Hvitfeldt		0	2024-12-25 23:16:53.685903
+tidysq	2025-01-10	Dominik Rafacz		0	2024-12-25 23:16:53.685903
+tlm	2025-01-10	Jose Barrera-Gomez		0	2024-12-25 23:16:53.685903
+vcfppR	2025-01-10	Zilong Li		0	2024-12-25 23:16:53.685903
+vfcp	2025-01-10	Josef Brejcha		0	2024-12-25 23:16:53.685903
+wqs	2025-01-10	Jenna Czarnota		0	2024-12-25 23:16:53.685903
+cellWise	2025-01-12	Jakob Raymaekers	classmap, ConfidenceEllipse, fMRIscrub, GSE, OutliersO3, RCTS, RDnp, RMSS, robStepSplitReg, srlars, templateICAr, ktaucenters, robreg3S, robustsur, robustvarComp, RMBC	16	2024-12-25 23:16:53.685903
+cherry	2025-01-12	Jelle Goeman	flip, CrossClustering, jointest, SEMgraph, SEMdeep	5	2024-12-25 23:16:53.685903
+PieGlyph	2025-01-12	Rishabh Vishwakarma	DImodelsVis	1	2024-12-25 23:16:53.685903
+DBpower	2025-01-12	Ryan Sun		0	2024-12-25 23:16:53.685903
+DRviaSPCN	2025-01-12	Junwei Han		0	2024-12-25 23:16:53.685903
+PVplr	2025-01-12	Roger French		0	2024-12-25 23:16:53.685903
+RCTS	2025-01-12	Ewoud Heyndels		0	2024-12-25 23:16:53.685903
+ROI.models.globalOptTests	2025-01-12	Florian Schwendinger		0	2024-12-25 23:16:53.685903
+SlaPMEG	2025-01-12	Mitra Ebrahimpoor		0	2024-12-25 23:16:53.685903
+SNPfiltR	2025-01-12	Devon DeRaad		0	2024-12-25 23:16:53.685903
+STGS	2025-01-12	Neeraj Budhlakoti		0	2024-12-25 23:16:53.685903
+ergm	2025-01-13	Pavel N. Krivitsky	Bergm, BFpack, bigergm, btergm, dnr, EpiModel, ergm.count, ergm.ego, ergm.multi, ergm.rank, ergMargins, ergmgp, ergmito, fergm, latentnet, mlergm, nemBM, netmediate, RDS, statnet, statnetWeb, tergm, tergmLite, VBLPCM, xergm.common, BANAM, BGGM, collpcm, MEclustnet, Neighboot, SimRDS, sspse, ITNr, easybgm	34	2024-12-25 23:16:53.685903
+TDA	2025-01-13	Jisu Kim	ashapesampler, etree, RPointCloud, TDAvec	4	2024-12-25 23:16:53.685903
+mratios	2025-01-13	Frank Schaarschmidt	BSagri, SimComp, ANOM	3	2024-12-25 23:16:53.685903
+enviGCMS	2025-01-13	Miao YU	pmd	1	2024-12-25 23:16:53.685903
+OwenQ	2025-01-13	Stéphane Laurent	cTOST	1	2024-12-25 23:16:53.685903
+databraryr	2025-01-13	Rick O. Gilmore		0	2024-12-25 23:16:53.685903
+georob	2025-01-13	Andreas Papritz		0	2024-12-25 23:16:53.685903
+glycanr	2025-01-13	Ivo Ugrina		0	2024-12-25 23:16:53.685903
+grec	2025-01-13	Wencheng Lau-Medrano		0	2024-12-25 23:16:53.685903
+lori	2025-01-13	Genevieve Robin		0	2024-12-25 23:16:53.685903
+mregions2	2025-01-13	Salvador Jesús Fernández Bejarano		0	2024-12-25 23:16:53.685903
+presmTP	2025-01-13	Gustavo Soutinho		0	2024-12-25 23:16:53.685903
+RcppUUID	2025-01-13	Artem Klevtsov		0	2024-12-25 23:16:53.685903
+sundialr	2025-01-13	Satyaprakash Nayak		0	2024-12-25 23:16:53.685903
+suppdata	2025-01-13	William D. Pearse		0	2024-12-25 23:16:53.685903
+valr	2025-01-13	Kent Riemondy		0	2024-12-25 23:16:53.685903
+arrow	2025-01-14	Jonathan Keane	APCalign, brickster, capesR, censobr, ClickHouseHTTP, diffdfs, disk.frame, DominoDataR, dpkg, ebirdst, ecdata, Eunomia, foundry, gbifdb, geslaR, IGoRRR, mintyr, MolgenisArmadillo, multimolang, nhdplusTools, overturemapsr, parqr, parquetize, pysparklyr, sfarrow, sooty, SQL, strand, TestGenerator, TKCat, amadeus, gwavr	32	2024-12-25 23:16:53.685903
+geojsonR	2025-01-14	Lampros Mouselimis	GeoMongo	1	2024-12-25 23:16:53.685903
+adfExplorer	2025-01-14	Pepijn de Vries		0	2024-12-25 23:16:53.685903
+aebdata	2025-01-14	Hugo Macedo		0	2024-12-25 23:16:53.685903
+AmigaFFH	2025-01-14	Pepijn de Vries		0	2024-12-25 23:16:53.685903
+clam	2025-01-14	Maarten Blaauw		0	2024-12-25 23:16:53.685903
+tidyfit	2025-01-14	Johann Pfitzinger		0	2024-12-25 23:16:53.685903
+geomtextpath	2025-01-15	Allan Cameron	transPlotR, TransProR, triptych, VisualizeSimon2Stage	4	2024-12-25 23:16:53.685903
+hasseDiagram	2025-01-15	Krzysztof Ciomek		0	2024-12-25 23:16:53.685903
+quanteda.textmodels	2025-01-15	Kenneth Benoit		0	2024-12-25 23:16:53.685903
+netmeta	2025-01-22	Guido Schwarzer	crossnma, fragility, NMAoutlier, nmarank, poth, rankinma, RepeatedHighDim, ssifs, viscomp	9	2024-12-25 23:16:53.685903
+gtfstools	2025-01-22	Daniel Herszenhut	gtfs2gps, GTFSwizard, gtfs2emis	3	2024-12-25 23:16:53.685903
