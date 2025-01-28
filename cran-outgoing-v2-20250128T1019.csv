@@ -1,0 +1,4 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+lintr	2025-02-11	Michael Chirico	adaptalint, autoharp, box.linters, dupree, goodpractice, languageserver, PaRe, rhino	8	2025-01-28 10:19:27.303337
+spectralGraphTopology	2025-02-11	Ze Vinicius	finbipartite, fingraph	2	2025-01-28 10:19:27.303337
+prqlr	2025-02-11	Tatsuya Shima		0	2025-01-28 10:19:27.303337
