@@ -1,0 +1,10 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+RcppAlgos	2025-02-11	Joseph Wood	ccpsyc, epinetr, IDSL.UFAx, janus, mvSUSY, Rtropical, STraTUS, surveyvoi, TML	9	2025-01-28 16:22:35.833575
+lintr	2025-02-11	Michael Chirico	adaptalint, autoharp, box.linters, dupree, goodpractice, languageserver, PaRe, rhino	8	2025-01-28 16:22:35.833575
+spectralGraphTopology	2025-02-11	Ze Vinicius	finbipartite, fingraph	2	2025-01-28 16:22:35.833575
+prqlr	2025-02-11	Tatsuya Shima		0	2025-01-28 16:22:35.833575
+teal.data	2025-02-18	Dawid Kaledkowski	teal, teal.modules.clinical, teal.modules.general, teal.slice, teal.transform	5	2025-01-28 16:22:35.833575
+teal	2025-02-18	Dawid Kaledkowski	teal.modules.clinical, teal.modules.general	2	2025-01-28 16:22:35.833575
+MazamaSpatialPlots	2025-02-18	Jonathan Callahan		0	2025-01-28 16:22:35.833575
+teal.modules.clinical	2025-02-18	Joe Zhu		0	2025-01-28 16:22:35.833575
+teal.modules.general	2025-02-18	Dawid Kaledkowski		0	2025-01-28 16:22:35.833575
