@@ -1,0 +1,10 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+lintr	2025-02-11	Michael Chirico	adaptalint, autoharp, box.linters, dupree, goodpractice, languageserver, PaRe, rhino	8	2025-01-28 12:35:10.322762
+spectralGraphTopology	2025-02-11	Ze Vinicius	finbipartite, fingraph	2	2025-01-28 12:35:10.322762
+prqlr	2025-02-11	Tatsuya Shima		0	2025-01-28 12:35:10.322762
+teal.data	2025-02-18	Dawid Kaledkowski	teal, teal.modules.clinical, teal.modules.general, teal.slice, teal.transform	5	2025-01-28 12:35:10.322762
+teal	2025-02-18	Dawid Kaledkowski	teal.modules.clinical, teal.modules.general	2	2025-01-28 12:35:10.322762
+restatapi	2025-02-18	Mátyás Mészáros	hicp	1	2025-01-28 12:35:10.322762
+MazamaSpatialPlots	2025-02-18	Jonathan Callahan		0	2025-01-28 12:35:10.322762
+teal.modules.clinical	2025-02-18	Joe Zhu		0	2025-01-28 12:35:10.322762
+teal.modules.general	2025-02-18	Dawid Kaledkowski		0	2025-01-28 12:35:10.322762
