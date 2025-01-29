@@ -1,0 +1,22 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+RcppAlgos	2025-02-11	Joseph Wood	ccpsyc, epinetr, IDSL.UFAx, janus, mvSUSY, Rtropical, STraTUS, surveyvoi, TML	9	2025-01-29 09:18:41.994832
+lintr	2025-02-11	Michael Chirico	adaptalint, autoharp, box.linters, dupree, goodpractice, languageserver, PaRe, rhino	8	2025-01-29 09:18:41.994832
+ClassComparison	2025-02-11	Kevin R. Coombes	Modeler, RPointCloud, CrossValidate	3	2025-01-29 09:18:41.994832
+spectralGraphTopology	2025-02-11	Ze Vinicius	finbipartite, fingraph	2	2025-01-29 09:18:41.994832
+FPDclustering	2025-02-11	Cristina Tortora		0	2025-01-29 09:18:41.994832
+glottospace	2025-02-11	Sietze Norder		0	2025-01-29 09:18:41.994832
+prqlr	2025-02-11	Tatsuya Shima		0	2025-01-29 09:18:41.994832
+zonebuilder	2025-02-11	Robin Lovelace		0	2025-01-29 09:18:41.994832
+details	2025-02-12	Jonathan Sidi	carbonate, texPreview	2	2025-01-29 09:18:41.994832
+BRugs	2025-02-12	Uwe Ligges		0	2025-01-29 09:18:41.994832
+exceedProb	2025-02-12	Brian D. Segal		0	2025-01-29 09:18:41.994832
+excel.link	2025-02-12	Gregory Demin		0	2025-01-29 09:18:41.994832
+Rdiagnosislist	2025-02-12	Anoop Shah		0	2025-01-29 09:18:41.994832
+RFlocalfdr	2025-02-12	Robert Dunne		0	2025-01-29 09:18:41.994832
+SFSI	2025-02-12	Marco Lopez-Cruz		0	2025-01-29 09:18:41.994832
+stratifyR	2025-02-12	Karuna G. Reddy		0	2025-01-29 09:18:41.994832
+tosr	2025-02-12	Sebastian Robledo		0	2025-01-29 09:18:41.994832
+teal	2025-02-18	Dawid Kaledkowski	teal.modules.clinical, teal.modules.general	2	2025-01-29 09:18:41.994832
+MazamaSpatialPlots	2025-02-18	Jonathan Callahan		0	2025-01-29 09:18:41.994832
+teal.modules.clinical	2025-02-18	Joe Zhu		0	2025-01-29 09:18:41.994832
+teal.modules.general	2025-02-18	Dawid Kaledkowski		0	2025-01-29 09:18:41.994832
