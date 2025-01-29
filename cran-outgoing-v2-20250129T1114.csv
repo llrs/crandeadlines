@@ -1,0 +1,27 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+RcppAlgos	2025-02-11	Joseph Wood	ccpsyc, epinetr, IDSL.UFAx, janus, mvSUSY, Rtropical, STraTUS, surveyvoi, TML	9	2025-01-29 11:14:45.28461
+lintr	2025-02-11	Michael Chirico	adaptalint, autoharp, box.linters, dupree, goodpractice, languageserver, PaRe, rhino	8	2025-01-29 11:14:45.28461
+ClassComparison	2025-02-11	Kevin R. Coombes	Modeler, RPointCloud, CrossValidate	3	2025-01-29 11:14:45.28461
+spectralGraphTopology	2025-02-11	Ze Vinicius	finbipartite, fingraph	2	2025-01-29 11:14:45.28461
+FPDclustering	2025-02-11	Cristina Tortora		0	2025-01-29 11:14:45.28461
+glottospace	2025-02-11	Sietze Norder		0	2025-01-29 11:14:45.28461
+prqlr	2025-02-11	Tatsuya Shima		0	2025-01-29 11:14:45.28461
+zonebuilder	2025-02-11	Robin Lovelace		0	2025-01-29 11:14:45.28461
+acs	2025-02-12	Ezra Haber Glenn	choroplethr, synthACS, noaastormevents	3	2025-01-29 11:14:45.28461
+details	2025-02-12	Jonathan Sidi	carbonate, texPreview	2	2025-01-29 11:14:45.28461
+BRugs	2025-02-12	Uwe Ligges		0	2025-01-29 11:14:45.28461
+DFD	2025-02-12	Mohamed Soudy		0	2025-01-29 11:14:45.28461
+exceedProb	2025-02-12	Brian D. Segal		0	2025-01-29 11:14:45.28461
+excel.link	2025-02-12	Gregory Demin		0	2025-01-29 11:14:45.28461
+FLSSS	2025-02-12	Charlie Wusuo Liu		0	2025-01-29 11:14:45.28461
+HaDeX	2025-02-12	Weronika Puchala		0	2025-01-29 11:14:45.28461
+Rdiagnosislist	2025-02-12	Anoop D. Shah		0	2025-01-29 11:14:45.28461
+remstimate	2025-02-12	Giuseppe Arena		0	2025-01-29 11:14:45.28461
+RFlocalfdr	2025-02-12	Robert Dunne		0	2025-01-29 11:14:45.28461
+SFSI	2025-02-12	Marco Lopez-Cruz		0	2025-01-29 11:14:45.28461
+stratifyR	2025-02-12	Karuna G. Reddy		0	2025-01-29 11:14:45.28461
+tosr	2025-02-12	Sebastian Robledo		0	2025-01-29 11:14:45.28461
+teal	2025-02-18	Dawid Kaledkowski	teal.modules.clinical, teal.modules.general	2	2025-01-29 11:14:45.28461
+MazamaSpatialPlots	2025-02-18	Jonathan Callahan		0	2025-01-29 11:14:45.28461
+teal.modules.clinical	2025-02-18	Joe Zhu		0	2025-01-29 11:14:45.28461
+teal.modules.general	2025-02-18	Dawid Kaledkowski		0	2025-01-29 11:14:45.28461
