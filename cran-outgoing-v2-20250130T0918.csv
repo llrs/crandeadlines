@@ -1,0 +1,28 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+RcppAlgos	2025-02-11	Joseph Wood	ccpsyc, epinetr, IDSL.UFAx, janus, mvSUSY, Rtropical, STraTUS, surveyvoi, TML, BayesCPclust	10	2025-01-30 09:18:51.717264
+lintr	2025-02-11	Michael Chirico	adaptalint, autoharp, box.linters, dupree, goodpractice, languageserver, PaRe, rhino	8	2025-01-30 09:18:51.717264
+ClassComparison	2025-02-11	Kevin R. Coombes	Modeler, RPointCloud, CrossValidate	3	2025-01-30 09:18:51.717264
+spectralGraphTopology	2025-02-11	Ze Vinicius	finbipartite, fingraph	2	2025-01-30 09:18:51.717264
+FPDclustering	2025-02-11	Cristina Tortora		0	2025-01-30 09:18:51.717264
+glottospace	2025-02-11	Sietze Norder		0	2025-01-30 09:18:51.717264
+zonebuilder	2025-02-11	Robin Lovelace		0	2025-01-30 09:18:51.717264
+acs	2025-02-12	Ezra Haber Glenn	choroplethr, synthACS, noaastormevents	3	2025-01-30 09:18:51.717264
+details	2025-02-12	Jonathan Sidi	carbonate, texPreview	2	2025-01-30 09:18:51.717264
+BRugs	2025-02-12	Uwe Ligges		0	2025-01-30 09:18:51.717264
+DFD	2025-02-12	Mohamed Soudy		0	2025-01-30 09:18:51.717264
+exceedProb	2025-02-12	Brian D. Segal		0	2025-01-30 09:18:51.717264
+excel.link	2025-02-12	Gregory Demin		0	2025-01-30 09:18:51.717264
+FLSSS	2025-02-12	Charlie Wusuo Liu		0	2025-01-30 09:18:51.717264
+HaDeX	2025-02-12	Weronika Puchala		0	2025-01-30 09:18:51.717264
+Rdiagnosislist	2025-02-12	Anoop D. Shah		0	2025-01-30 09:18:51.717264
+RFlocalfdr	2025-02-12	Robert Dunne		0	2025-01-30 09:18:51.717264
+SFSI	2025-02-12	Marco Lopez-Cruz		0	2025-01-30 09:18:51.717264
+stratifyR	2025-02-12	Karuna G. Reddy		0	2025-01-30 09:18:51.717264
+tsibble	2025-02-13	Earo Wang	brolgar, ctsfeatures, cubble, epe4md, fable, fable.ata, fable.prophet, fableCount, fabletools, feasts, fpp3, gratis, gravitas, iNZightTS, netseer, oddnet, RTL, RtsEva, theft, tidychangepoint, tidyindex, tsibbledata, tsibbletalk, TSstudio, UComp, UKgrid, USgrid, vital, finnts, theftdlc	30	2025-01-30 09:18:51.717264
+casabourse	2025-02-13	Abdoul Oudouss Diakité		0	2025-01-30 09:18:51.717264
+easyDifferentialGeneCoexpression	2025-02-13	Davide Chicco		0	2025-01-30 09:18:51.717264
+GWnnegPCA	2025-02-13	Narumasa Tsutsumida		0	2025-01-30 09:18:51.717264
+teal	2025-02-18	Dawid Kaledkowski	teal.modules.clinical, teal.modules.general	2	2025-01-30 09:18:51.717264
+MazamaSpatialPlots	2025-02-18	Jonathan Callahan		0	2025-01-30 09:18:51.717264
+teal.modules.clinical	2025-02-18	Joe Zhu		0	2025-01-30 09:18:51.717264
+teal.modules.general	2025-02-18	Dawid Kaledkowski		0	2025-01-30 09:18:51.717264
