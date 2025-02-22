@@ -1,0 +1,93 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+teal	2025-02-18	Dawid Kaledkowski	teal.modules.clinical, teal.modules.general	2	2025-02-22 18:23:29.185514
+teal.modules.clinical	2025-02-18	Joe Zhu		0	2025-02-22 18:23:29.185514
+teal.modules.general	2025-02-18	Dawid Kaledkowski		0	2025-02-22 18:23:29.185514
+duckplyr	2025-02-21	Kirill Müller	censobr	1	2025-02-22 18:23:29.185514
+cpmBigData	2025-02-23	Chun Li		0	2025-02-22 18:23:29.185514
+ormBigData	2025-02-23	Chun Li		0	2025-02-22 18:23:29.185514
+PResiduals	2025-02-23	Chun Li		0	2025-02-22 18:23:29.185514
+MatchIt	2025-02-24	Noah Greifer	causalBatch, CBPS, cem, EpiForsk, jsmodule, MatchThem, netdiffuseR, PSAboot, psBayesborrow, psborrow, RCTrep, SAMprior, sitepickR, vaccineff, causal.decomp, causalOT, CERFIT, mvGPS, PanelMatch, mwa	20	2025-02-22 18:23:29.185514
+WeightIt	2025-02-24	Noah Greifer	CIMTx, MatchThem, mvGPS	3	2025-02-22 18:23:29.185514
+GDILM.SEIRS	2025-02-24	Amin Abed		0	2025-02-22 18:23:29.185514
+tinytiger	2025-02-26	Christopher T. Kenny	alarmdata, censable, geomander, PL94171, redistverse, cvap, ppmf, wru	8	2025-02-22 18:23:29.185514
+btergm	2025-02-26	Philip Leifeld	ergMargins, netmediate	2	2025-02-22 18:23:29.185514
+zippeR	2025-02-26	Christopher Prener	deprivateR	1	2025-02-22 18:23:29.185514
+baf	2025-02-26	Christopher T. Kenny		0	2025-02-22 18:23:29.185514
+BRugs	2025-02-26	Uwe Ligges		0	2025-02-22 18:23:29.185514
+fasterRaster	2025-02-26	Adam B. Smith		0	2025-02-22 18:23:29.185514
+o2geosocial	2025-02-26	Alexis Robert		0	2025-02-22 18:23:29.185514
+readxl	2025-02-27	Jennifer Bryan	ABSurvTDC, accucor, aelab, AgroTech, AHPWR, aire.zmvm, allMT, amanida, amerifluxr, AvInertia, aweSOM, baizer, batchLLM, BayesianFitForecast, baytrends, bcdata, bestSDP, BGVAR, bibliometrix, bndesr, bootf2, BrazilMet, breathtestcore, bulkreadr, capl, carbonr, CCWeights, ceas, cepumd, cgmanalysis, ChestVolume, chillR, chromConverter, CMapViz, CoastlineFD, COINr, concatipede, covid19.analytics, COVIDIBGE, covidmx, crosswalkr, dafishr, dams, DataLoader, datamods, datazoom.amazonia, dbGaPCheckup, DCEtool, DDIwR, defineR, dendRoAnalyst, DescTools, dextergui, DIFshiny, DistatisR, dmtools, dosedesignR, drawsample, duawranglr, easyr, ECOTOXr, EdSurvey, eHDPrep, eirm, epe4md, eph, epitweetr, esaps, excel2eprime, exceldata, expDB, extractox, fabR, FAST.R, FastRet, fetch, fio, fitPS, flattabler, forgts, formods, FSK2R, GeoWeightedModel, GetTDData, GGIRread, ggplotgui, GiniDistance, GOLDprice, googlePublicData, greenfeedr, Greymodels, growthPheno, GWSDAT, HaDeX, hclusteasy, Holomics, hosm, htrSPRanalysis, htsr, hydrotoolbox, hydroToolkit, icertool, ideanet, IDEATools, IDSL.CSA, IDSL.IPA, IDSL.NPA, IDSL.UFA, IDSL.UFAx, ie2misc, ifo, ifpd, IGoRRR, ihpdr, imageData, immunarch, ImportExport, InflectSSP, insane, INSPECTumours, interca, InterVA5, iotables, irtawsi, irtGUI, isobxr, ISRaD, istat, joinXL, jsmodule, jubilee, knfi, KoboconnectR, lavaangui, LearningStats, lehuynh, libr, loadeR, logib, ltertools, maat, macrocol, MassWateR, matriz, mcmsupply, MDMAPR, metacore, MFO, microbiomeMQC, micromapST, miniMeta, mintyr, mipplot, miRetrieve, mlms, modgetxl, moodef, netShiny, novelqualcodes, ntdr, oglcnac, OlinkAnalyze, oncmap, One4All, onmaRg, opendatatoronto, OpenMindat, pacta.multi.loanbook, PAMhm, papci, pdi, pedquant, PerRegMod, PesticideLoadIndicator, PhageCocktail, photobiologyInOut, pioneeR, PNADcIBGE, PNDSIBGE, PNSIBGE, PODES, Poly4AT, pressuRe, prior3D, PUPMCR, puzzle, pxmake, qrlabelr, QTL.gCIMapping, qualitycontrol, quicR, QuICSeedR, QurvE, radiant.data, ramlegacy, rb3, rbiom, RBNZ, RcmdrMisc, Rdiagnosislist, RDML, readabs, readit, readmoRe, readrba, readtext, reappraised, regions, Relectoral, replicateBE, rexer, rio, RJafroc, RLumShiny, rodeo, rsurveycto, Rtrack, SAKERNAS, SangerTools, scan, scbursts, scdhlm, scicomptools, SDAR, sdtmval, SEAHORS, secuTrialR, SemNetCleaner, sendigR, shinyHeatmaply, shinyIRT, ShinyLink, sivirep, SoilManageR, SomaDataIO, sphereML, spiro, SQI, SqueakR, SUSENAS, tab2xml, tall, TestGenerator, threesixtygiving, tidyDenovix, tidygapminder, tidyplate, tidyquant, tidytlg, tidyverse, toxEval, tpfp, TR8, treasury, tRigon, ubiquity, unheadr, upstartr, uscoauditlog, vcdExtra, VectorCodeR, visvaR, visvow, vvmover, weed, whippr, ypssc, goat, FAMetA, somhca, plutor, bcmaps, PWIR, tosr, breathteststan, decisionSupport, piecenorms, SIPDIBGE, esquisse, moreparty, safetyGraphics, vvdoctor, ANOVAShiny, ANOVAShiny2, AntibodyTiters, atable, bfsMaps, CAESAR.Suite, catfun, CGPfunctions, ClusTCR2, covalchemy, cryptography, dad, DescrTab2, DescToolsAddIns, DGEAR, drugprepr, DynForest, epifitter, EQUALrepeat, EQUALSTATS, gerbil, giniCI, gosset, HLAtools, InteRD, jack, LorMe, matRiks, mcradds, meteo, miceRanger, mlmts, ModTools, morphomap, mrbayes, MRMCbinary, negligible, nmrrr, npcurePK, parTimeROC, pbANOVA, pointRes, popstudy, ProAE, qspray, rcompanion, RGMM, robin, RobRegression, rties, SEIRfansy, Semblance, sevenbridges2, smvgraph, SSHAARP, ssMRCD, tabxplor, tidyrules, TipDatingBeast, Toothnroll, tspredit, vannstats, WaverideR, wrappedtools, xgxr, tidyEdSurvey, banffIT, madshapR, mlstrOpalr, Rmonize, ruminate, actilifecounts, GGIR, InSilicoVA, openVA, sassy, discoveR, predictoR, regressoR, metatools, QTL.gCIMapping.GUI, radiant, radiant.basics, radiant.design, radiant.model, radiant.multivariate, brsim, CAinterprTools, mpae, Rcmdr, RcmdrPlugin.cpd, RcmdrPlugin.DoE, RcmdrPlugin.EACSPIR, RcmdrPlugin.GWRM, shinyMolBio, daiR, textAnnotatoR, warabandi, eurostat, AdverseEvents, boxr, bruceR, childfree, cloudstoR, dataquieR, DistPlotter, dpmr, editData, epiCleanr, estadistica, ExPanDaR, framecleaner, genogeographer, gesisdata, heterogen, importinegi, kibior, metaConvert, mmstat4, NormalityAssessment, octopus, pewdata, PRISMA2020, psData, ropercenter, rUM, sysAgNPs, tfrmtbuilder, welo, treespace, scplot, sweep, archetyper, ARGOS, cgmquantify, chatRater, CondiS, CopSens, crops, crt2power, CSCNet, datamedios, dbglm, div, doublIn, dplyrAssist, drimmR, dumbbell, DYNATE, EntropicStatistics, EpiSemble, foodwebWrapper, GB5mcPred, ggESDA, ggplotAssist, ggtaxplot, hdpGLM, hlaR, ImFoR, ImVol, JAGStree, LipidomicsR, MAGMA.R, margaret, markowitz, metaprotr, MF.beta4, mispitools, mosaicModel, mulea, nonet, oncoPredict, OpEnHiMR, OpenRepGrid.ic, optimos.prime, PEIMAN2, phrases, polimetrics, PSIM, RanglaPunjab, ReSurv, Ricrt, ridigbio, rnaCrosslinkOO, RobinCar, RQdeltaCT, ShapleyValue, SPARSEMODr, StanMoMo, statVisual, studyStrap, surveyPrev, SurvHiDim, touRnamentofchampions, transPlotR, tswge, Tushare, UKB.COVID19, UniprotR, UpAndDownPlots, usfertilizer, WeatherSentiment, windows.pls, WinRatio, iarm, jmv, ChineseNames, PsychWordVec, TestAnaAPP, cpop, TVMM, rrtable, shinyrecipes, ARPALData, convergEU, qPRAentry, autostats, presenter, tidybins, TidyConsultant, validata, agcounts, mMARCH.AC, postGGIR, FuzzyImputationTest, forensIT, polyhedralCubature, ratioOfQsprays, resultant, symbolicQspray, BiodiversityR, fingerPro, RcmdrPlugin.aRnova, RcmdrPlugin.BiclustGUI, RcmdrPlugin.BWS1, RcmdrPlugin.BWS2, RcmdrPlugin.BWS3, RcmdrPlugin.DCCV, RcmdrPlugin.DCE, RcmdrPlugin.depthTools, RcmdrPlugin.EBM, RcmdrPlugin.EcoVirtual, RcmdrPlugin.Export, RcmdrPlugin.EZR, RcmdrPlugin.FactoMineR, RcmdrPlugin.HH, RcmdrPlugin.KMggplot2, RcmdrPlugin.MA, RcmdrPlugin.MPAStats, RcmdrPlugin.NMBU, RcmdrPlugin.orloca, RcmdrPlugin.PcaRobust, RcmdrPlugin.RiskDemo, RcmdrPlugin.RMTCJags, RcmdrPlugin.ROC, RcmdrPlugin.sos, RcmdrPlugin.survival, RcmdrPlugin.TeachingDemos, RcmdrPlugin.TeachStat, RcmdrPlugin.temis, RcmdrPlugin.UCA, RcmdrPlugin.WorldFlora, AgroReg, EasyDescribe, voiceR, gatoRs, spocc, practicalSigni, anomalize, ggfacto, ProtE, nlmixr2plot, AlleleShift, nlmixr2, webr, rangeModelMetadata, wallace, babelmixr2, nlmixr2rpt, shinyMixR, ENMeval, ENMTools	564	2025-02-22 18:23:29.185514
+spectralGraphTopology	2025-02-28	Ze Vinicius	finbipartite, fingraph	2	2025-02-22 18:23:29.185514
+rangr	2025-02-28	Katarzyna Markowska		0	2025-02-22 18:23:29.185514
+rllama	2025-03-01	Alexey Ivanov		0	2025-02-22 18:23:29.185514
+skellam	2025-03-02	Patrick E. Brown	MLE, PINstimation, powerHE	3	2025-02-22 18:23:29.185514
+adelie	2025-03-02	Trevor Hastie		0	2025-02-22 18:23:29.185514
+autogam	2025-03-02	Chitu Okoli		0	2025-02-22 18:23:29.185514
+BCDAG	2025-03-02	Alessandro Mascaro		0	2025-02-22 18:23:29.185514
+censobr	2025-03-02	Rafael H. M. Pereira		0	2025-02-22 18:23:29.185514
+ebvcube	2025-03-02	Luise Quoss		0	2025-02-22 18:23:29.185514
+hydflood	2025-03-02	Arnd Weber		0	2025-02-22 18:23:29.185514
+marp	2025-03-02	Jie Kang		0	2025-02-22 18:23:29.185514
+noegletalR	2025-03-02	Frederik Larsen		0	2025-02-22 18:23:29.185514
+pander	2025-03-03	Gergely Daróczi	baytrends, brinton, carpenter, clintools, dataMaid, dataReporter, dbGaPCheckup, desctable, DiffXTables, eclust, epiR, funModeling, gmoTree, goxygen, hagis, IAPWS95, INSPECTumours, jtools, LifeInsureR, LOGAN, MplusAutomation, mscstexta4r, mscsweblm4r, OPL, packagefinder, PCADSC, rapport, rapportools, reportRmd, rmda, rosetta, sdsfun, shinyobjects, summarytools, ufs, veccompare, xgxr, Dtableone, dtComb, EpiStats, gofcat, PSS.Health, RcmdrPlugin.EBM, RSurveillance, spectacles, autostats, bruceR, dpm, interactions, panelr, pubh, webSDM, LifeInsuranceContracts, aMNLFA, autoFC, BifactorIndicesCalculator, holland, mlVAR, modsem, MplusLGM, mplusParallel.automation, MplusTrees, plotSEMM, tidyLPA, tidySEM, forestRK, messy.cats, oii, BiostatsUHNplus, cisp, gdverse, geocomplexity, itmsa, localsp, spEDM, sshicm, conmet, datacleanr, grapesAgri1, OlympicRshiny, StepReg, behaviorchange, ccpsyc, nlmixr2plot, tidybins, TidyConsultant, ChineseNames, PsychWordVec, TestAnaAPP, rties, funtimes, mnet, nlmixr2, waves, babelmixr2, nlmixr2rpt, shinyMixR	97	2025-02-22 18:23:29.185514
+rayrender	2025-03-05	Tyler Morgan-Wall	raymolecule, rayshader, fitbitViz, hillshader, PoweREST	5	2025-02-22 18:23:29.185514
+wallace	2025-03-05	Mary E. Blair		0	2025-02-22 18:23:29.185514
+mixtools	2025-03-06	Derek Young	AFM, beastt, biodosetools, CEDA, dafishr, ddpcr, DSWE, EntropyMCMC, enviGCMS, extrememix, ggrasp, IMIX, INFOSET, kernplus, l1kdeconv, mcrPioda, MiRKAT, MisRepARMA, MixSemiRob, opGMMassessment, plotmm, QuantileGH, rnaCrosslinkOO, RprobitB, rstanbdp, scapGNN, scPloidy, serocalculator, UpDown, ZetaSuite, ztpln, CDatanet, EFAfactors, pmd, EDOtrans	35	2025-02-22 18:23:29.185514
+AICcmodavg	2025-03-06	Marc J. Mazerolle	AdIsMF, enmSdmX, longit, Petersen, sars, soiltestcorr, temperatureresponse	7	2025-02-22 18:23:29.185514
+BHSBVAR	2025-03-06	Paul Richardson		0	2025-02-22 18:23:29.185514
+clintrialx	2025-03-06	Indraneel Chakraborty		0	2025-02-22 18:23:29.185514
+synthpop	2025-03-06	Beata Nowok		0	2025-02-22 18:23:29.185514
+fields	2025-03-07	Douglas Nychka	ADPclust, ASMap, aSPU, astrochron, autoFRK, autoimage, aweSOM, BallMapper, BayesLCA, BayesNetBP, bayesPop, biClassify, bioRad, bipartite, biwavelet, bkmr, BMRMM, BoundaryStats, BRcal, Canopy, CCA, ccTensor, chillR, ciftiTools, CJIVE, cmR, cmsafops, cmsafvis, CNLTtsa, CoastlineFD, cocons, convoSPAT, cope, corr2D, CSHShydRology, dartR.sim, dcTensor, demu, DesignCTPB, earlywarnings, eDITH, EGRET, EMD, envi, ETAS, etasFLP, ETRep, ExpAnalysis3d, expectreg, fcfdr, fcr, fdasrvf, fence, FLightR, fnets, foreSIGHT, fpa, fsbrain, funData, gainML, gapfill, gateR, GeneralizedWendland, GeoAdjust, geoelectrics, GEOmap, GeoModels, georob, geospt, geosptdb, GeoThinneR, goeveg, GPFDA, GPvecchia, GRIDCOPULA, gwrr, hero, hglasso, hht, highriskzone, Hmsc, infraFDTD.assist, JOPS, klovan, landsepi, LatticeKrig, lgcp, LMERConvenienceFunctions, mappoly, ModelMap, MOLHD, mousetrap, mrbsizeR, MRFA, MSIMST, MSmix, MultiObjMatch, mvLSW, NCutYX, nnTensor, nucim, oceanmap, OCNet, OptimaRegion, paramGUI, PEIP, plsgenomics, popsom7, ppgm, prevR, pspatreg, qfa, qlcVisualize, RadioSonde, ramps, reslr, RFOC, rhcoclust, rivnet, RNCEP, rNOMADS, robflreg, RPANDA, rsat, RsimMosaic, rworldmap, SafeVote, scBio, SeBR, Semblance, SensMap, siland, smosr, soilphysics, spant, sparrpowR, sparseBC, SpatialExtremes, SpatialVS, SpatialVx, SpATS, spatsurv, spBayesSurv, SpectralMap, spm2, spmoran, spThin, stilt, StMoMo, stocc, stopp, stxplore, SUMMER, SurvCorr, SynchWave, telefit, TideCurves, TIMP, topologyGSA, TrackReconstruction, treespace, TwoTimeScales, uci, Umatrix, vectorwavelet, verification, voluModel, Voss, vote, warpMix, wavScalogram, waywiser, WRTDStidal, wsyn, MiSPU, WaverideR, EstimationTools, gear, somhca, bioregion, bootPLS, cassandRa, econetwork, econullnetr, NIMAA, nos, PhageCocktail, plsRglm, tapnet, bkmrhat, CompMix, brainKCCA, seedCCA, studyStrap, mwTensor, decisionSupport, BayesfMRI, hrf, SparseICA, VertexWiseR, cmsaf, dartR.captive, EGRETci, EMDANNhybrid, EMDSVRhybrid, LMD, TSPred, ETASbootstrap, dirttee, locpolExpectile, fdacluster, veesa, FADPclust, FunctanSNP, MFPCA, MJMbamlss, multifamm, Rquake, glossa, DGP4LCF, VeccTMVN, MLCOPULA, harbinger, tspredit, ecpc, fxTWAPLS, growthPheno, qtlpoly, AnomalyScore, mvLSWimpute, RchivalTag, RobustANOVA, MultiGroupO, arakno, BAwiR, Ecfun, jcext, rfishnet2, spidR, StormR, tailDepFun, agriutilities, statgenHTP, statgenSTA, steprf, gatoRs, SSDM, wallace, clmplus, CvmortalityMult, surveyPrev, locaR, CSTools, ordinalForest, PRSim, flexFitR, CSIndicators, Ecdat, RelDists, plsRbeta, plsRcox, statgenGxE, stepgbm, predtoolsTS, DWreg, gk, biospear, plasma, BDWreg	269	2025-02-22 18:23:29.185514
+mlr3pipelines	2025-03-07	Martin Binder	mcboost, mlr3fairness, mlr3fda, mlr3shiny, mlr3torch, mlr3verse, sense, spFSR, BioM2	9	2025-02-22 18:23:29.185514
+gsDesign	2025-03-07	Keaven Anderson	BayesOrdDesign, gsbDesign, gsDesign2, randomizeR, simtrial, mergedblocks	6	2025-02-22 18:23:29.185514
+metalite.ae	2025-03-07	Yujie Zhao	forestly, metalite.sl	2	2025-02-22 18:23:29.185514
+rmzqc	2025-03-07	Chris Bielow	PTXQC, RKorAPClient	2	2025-02-22 18:23:29.185514
+miWQS	2025-03-07	Paul M. Hargarten	marlod	1	2025-02-22 18:23:29.185514
+rhub	2025-03-07	Gábor Csárdi	packager	1	2025-02-22 18:23:29.185514
+ScottKnott	2025-03-07	Ivan Bezerra Allaman	spANOVA	1	2025-02-22 18:23:29.185514
+CohortSurvival	2025-03-07	Edward Burn		0	2025-02-22 18:23:29.185514
+DataFakeR	2025-03-07	Krystian Igras		0	2025-02-22 18:23:29.185514
+dataquieR	2025-03-07	Stephan Struckmann		0	2025-02-22 18:23:29.185514
+DGP4LCF	2025-03-07	Jiachen Cai		0	2025-02-22 18:23:29.185514
+hmmr	2025-03-07	Ingmar Visser		0	2025-02-22 18:23:29.185514
+HRTnomaly	2025-03-07	Luca Sartore		0	2025-02-22 18:23:29.185514
+isotracer	2025-03-07	Matthieu Bruneaux		0	2025-02-22 18:23:29.185514
+metalite.sl	2025-03-07	Benjamin Wang		0	2025-02-22 18:23:29.185514
+scRNAstat	2025-03-07	Yonghe Xia		0	2025-02-22 18:23:29.185514
+shiny.info	2025-03-07	Jakub Nowicki		0	2025-02-22 18:23:29.185514
+shinyCLT	2025-03-07	Dominique-Laurent Couturier		0	2025-02-22 18:23:29.185514
+stratifyR	2025-03-07	Karuna G. Reddy		0	2025-02-22 18:23:29.185514
+TukeyC	2025-03-07	Ivan Bezerra Allaman		0	2025-02-22 18:23:29.185514
+rearrr	2025-03-08	Ludvig Renbo Olsen	cvms, groupdata2, explainer, oHMMed, priorityelasticnet, bayesrules, surveyvoi	7	2025-02-22 18:23:29.185514
+dodgr	2025-03-08	Mark Padgham	riverconn	1	2025-02-22 18:23:29.185514
+bvhar	2025-03-08	Young Geun Kim		0	2025-02-22 18:23:29.185514
+clinDataReview	2025-03-08	Laure Cougnaud		0	2025-02-22 18:23:29.185514
+clusterMI	2025-03-08	Vincent Audigier		0	2025-02-22 18:23:29.185514
+dtmapi	2025-03-08	Luong Bang Tran		0	2025-02-22 18:23:29.185514
+LifemapR	2025-03-08	Aurélie Siberchicot		0	2025-02-22 18:23:29.185514
+nestedmodels	2025-03-08	Ashby Thorpe		0	2025-02-22 18:23:29.185514
+offsetreg	2025-03-08	Matt Heaphy		0	2025-02-22 18:23:29.185514
+TEAM	2025-03-08	John Pura		0	2025-02-22 18:23:29.185514
+TT	2025-03-08	Michal Zielaskowski		0	2025-02-22 18:23:29.185514
+correlation	2025-03-10	Brenton M. Wiernik	easystats, ggstatsplot, multitool, popstudy, see, statsExpressions, TangledFeatures, BioM2, jsmodule	9	2025-02-22 18:23:29.185514
+mbest	2025-03-10	Patrick O. Perry		0	2025-02-22 18:23:29.185514
+rempsyc	2025-03-10	Rémi Thériault		0	2025-02-22 18:23:29.185514
+rstanarm	2025-03-11	Ben Goodrich	AuxSurvey, BayesERtools, BayesPostEst, bayesrules, evidence, fbst, IRexamples, jmBIG, SIMPLE.REGRESSION, tidyposterior, webSDM, brada	12	2025-02-22 18:23:29.185514
+rbmi	2025-03-11	Craig Gower-Page	tern.rbmi	1	2025-02-22 18:23:29.185514
+bayesdfa	2025-03-11	Eric J. Ward		0	2025-02-22 18:23:29.185514
+bdsm	2025-03-11	Marcin Dubel		0	2025-02-22 18:23:29.185514
+Bernadette	2025-03-11	Lampros Bouranis		0	2025-02-22 18:23:29.185514
+cbq	2025-03-11	Xiao LU		0	2025-02-22 18:23:29.185514
+fcirt	2025-03-11	Naidan Tu		0	2025-02-22 18:23:29.185514
+flocker	2025-03-11	Jacob B. Socolar		0	2025-02-22 18:23:29.185514
+hBayesDM	2025-03-11	Woo-Young Ahn		0	2025-02-22 18:23:29.185514
+imt	2025-03-11	Ignacio Martinez		0	2025-02-22 18:23:29.185514
+multipleDL	2025-03-11	Yuqi Tian		0	2025-02-22 18:23:29.185514
+OncoBayes2	2025-03-11	Sebastian Weber		0	2025-02-22 18:23:29.185514
+rbioacc	2025-03-11	Virgile Baudrot		0	2025-02-22 18:23:29.185514
+tern.rbmi	2025-03-11	Joe Zhu		0	2025-02-22 18:23:29.185514
+ale	2025-03-12	Chitu Okoli		0	2025-02-22 18:23:29.185514
+MicroSEC	2025-03-13	Masachika Ikegami		0	2025-02-22 18:23:29.185514
+DataPackageR	2025-03-14	Dave Slager		0	2025-02-22 18:23:29.185514
+gimap	2025-03-14	Candace Savonen		0	2025-02-22 18:23:29.185514
+PubChemR	2025-03-14	Selcuk Korkmaz		0	2025-02-22 18:23:29.185514
