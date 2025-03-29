@@ -25,6 +25,7 @@ The data in this table stems from our querying the deadlines set by CRAN.
 # Dashboard
 
 ```{r get-data}
+options(repos = "https://cran.r-rproject.org")
 cran_deadlines <- crandeadlines::take_snapshot()
 cran_deadlines$Packages <- sapply(cran_deadlines$Packages, paste0, collapse = ", ")
 # Remove the list of packages that depend on them.

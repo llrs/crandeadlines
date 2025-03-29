@@ -13,8 +13,7 @@ A `data.frame` with columns:
 - `Maintainer`: The name of the maintainer.
 - `Packages`: The name of all the packages that depend on it.
 - `Dependencies`: The number of packages that depend on it.
-- `submission_time`: time when the package was submitted to CRAN, in
-`"Europe/Vienna"` timezone, same as the CRAN servers
+- `Snapshot`: time when the data was analys
 }
 \description{
 Downloads history of packages on the submission queue as recorded on github branch.

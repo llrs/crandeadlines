@@ -12,7 +12,7 @@
 #' - `Packages`: The name of all the packages that depend on it.
 #' - `Dependencies`: The number of packages that depend on it.
 #' - `Snapshot`: time when the data was analys
-#'
+#' @importFrom utils read.table
 #' @export
 #' @importFrom utils download.file read.csv unzip
 download_history <- function() {
