@@ -10,7 +10,8 @@ recursive_revdeps <- function(pkgs) {
 #' @author Code modified from Hadley Wickham
 #' @export
 #' @examples
-#' take_snapshot()
+#' options(repos = "https://cran.r-rproject.org")
+#' ts <- take_snapshot()
 take_snapshot <- function(){
 
   cran_db <- tools::CRAN_package_db()

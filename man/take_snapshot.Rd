@@ -13,7 +13,8 @@ A data.frame, one line per package with a deadline.
 Take Snapshot of CRAN deadlines
 }
 \examples{
-take_snapshot()
+options(repos = "https://cran.r-rproject.org")
+ts <- take_snapshot()
 }
 \author{
 Code modified from Hadley Wickham
