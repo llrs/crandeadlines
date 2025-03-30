@@ -1,0 +1,452 @@
+Package	Deadline	Maintainer	Packages	Dependencies	Snapshot
+gdm	2025-03-24	Matt Fitzpatrick		0	2025-03-30 13:25:02.005393
+hacksig	2025-03-26	Andrea Carenzo		0	2025-03-30 13:25:02.005393
+retistruct	2025-03-26	David C. Sterratt		0	2025-03-30 13:25:02.005393
+coppeCosenzaR	2025-03-29	Pier Taranti		0	2025-03-30 13:25:02.005393
+Trading	2025-03-29	Tasos Grivas		0	2025-03-30 13:25:02.005393
+tswge	2025-03-29	Bivin Sadler		0	2025-03-30 13:25:02.005393
+bayesPop	2025-03-30	Hana Sevcikova		0	2025-03-30 13:25:02.005393
+easycsv	2025-03-30	Dror Bogin		0	2025-03-30 13:25:02.005393
+hilldiv	2025-03-30	Antton Alberdi		0	2025-03-30 13:25:02.005393
+TestGenerator	2025-03-30	Cesar Barboza		0	2025-03-30 13:25:02.005393
+divvy	2025-03-31	Gawain Antell		0	2025-03-30 13:25:02.005393
+MethEvolSIM	2025-03-31	Sara Castillo Vicente		0	2025-03-30 13:25:02.005393
+spqdep	2025-03-31	Fernando Lopez		0	2025-03-30 13:25:02.005393
+tabnet	2025-04-01	Christophe Regouby		0	2025-03-30 13:25:02.005393
+brulee	2025-04-02	Max Kuhn		0	2025-03-30 13:25:02.005393
+crplyr	2025-04-02	Greg Freedman Ellis		0	2025-03-30 13:25:02.005393
+stelfi	2025-04-02	Charlotte M. Jones-Todd		0	2025-03-30 13:25:02.005393
+DataCombine	2025-04-03	Christopher Gandrud		0	2025-03-30 13:25:02.005393
+glmmTMB	2025-04-03	Mollie Brooks		0	2025-03-30 13:25:02.005393
+hacksaw	2025-04-03	David Ranzolin		0	2025-03-30 13:25:02.005393
+opendatatoronto	2025-04-03	Sharla Gelfand		0	2025-03-30 13:25:02.005393
+PKPDsim	2025-04-03	Ron Keizer		0	2025-03-30 13:25:02.005393
+Rcrawler	2025-04-03	Salim Khalil		0	2025-03-30 13:25:02.005393
+sasr	2025-04-04	Liming Li		0	2025-03-30 13:25:02.005393
+adespatial	2025-04-05	Aurélie Siberchicot		0	2025-03-30 13:25:02.005393
+AlgDesign	2025-04-05	Jerome Braun		0	2025-03-30 13:25:02.005393
+ARTool	2025-04-05	Matthew Kay		0	2025-03-30 13:25:02.005393
+C50	2025-04-05	Max Kuhn		0	2025-03-30 13:25:02.005393
+cbcTools	2025-04-05	John Helveston		0	2025-03-30 13:25:02.005393
+CohensdpLibrary	2025-04-05	Denis Cousineau		0	2025-03-30 13:25:02.005393
+Cubist	2025-04-05	Max Kuhn		0	2025-03-30 13:25:02.005393
+DiNAMIC.Duo	2025-04-05	Vonn Walter		0	2025-03-30 13:25:02.005393
+distillML	2025-04-05	Theo Saarinen		0	2025-03-30 13:25:02.005393
+dnapath	2025-04-05	Tyler Grimes		0	2025-03-30 13:25:02.005393
+GOxploreR	2025-04-05	Kalifa Manjang		0	2025-03-30 13:25:02.005393
+leidenbase	2025-04-05	Brent Ewing		0	2025-03-30 13:25:02.005393
+osdatahub	2025-04-05	Chris Jochem		0	2025-03-30 13:25:02.005393
+PublicWorksFinanceIT	2025-04-05	Lorena Ricciotti		0	2025-03-30 13:25:02.005393
+RAMClustR	2025-04-05	Helge Hecht		0	2025-03-30 13:25:02.005393
+RCPA	2025-04-05	Ha Nguyen		0	2025-03-30 13:25:02.005393
+RMSD	2025-04-05	Kazumi Wada		0	2025-03-30 13:25:02.005393
+Rtwobitlib	2025-04-05	Hervé Pagès		0	2025-03-30 13:25:02.005393
+sdmTMB	2025-04-05	Sean C. Anderson		0	2025-03-30 13:25:02.005393
+sgat	2025-04-05	Matias Poullain		0	2025-03-30 13:25:02.005393
+smooth	2025-04-05	Ivan Svetunkov		0	2025-03-30 13:25:02.005393
+SplitSoftening	2025-04-05	Jakub Dvorak		0	2025-03-30 13:25:02.005393
+symengine	2025-04-05	Jialin Ma		0	2025-03-30 13:25:02.005393
+terra	2025-04-05	Robert J. Hijmans		0	2025-03-30 13:25:02.005393
+jlme	2025-04-06	June Choe		0	2025-03-30 13:25:02.005393
+ncaavolleyballr	2025-04-06	Jeffrey R. Stevens		0	2025-03-30 13:25:02.005393
+pcatsAPIclientR	2025-04-07	Michal Kouril		0	2025-03-30 13:25:02.005393
+popdemo	2025-04-07	Iain Stott		0	2025-03-30 13:25:02.005393
+rtweet	2025-04-07	Lluís Revilla Sancho		0	2025-03-30 13:25:02.005393
+skellam	2025-04-07	Patrick E. Brown		0	2025-03-30 13:25:02.005393
+wikiTools	2025-04-07	Modesto Escobar		0	2025-03-30 13:25:02.005393
+adlift	2025-04-09	Matt Nunes		0	2025-03-30 13:25:02.005393
+BonEV	2025-04-09	Dongmei Li		0	2025-03-30 13:25:02.005393
+crunchy	2025-04-09	Greg Freedman Ellis		0	2025-03-30 13:25:02.005393
+hsphase	2025-04-09	Mohammad Ferdosi		0	2025-03-30 13:25:02.005393
+io	2025-04-09	David J. H. Shih		0	2025-03-30 13:25:02.005393
+pak	2025-04-09	Gábor Csárdi		0	2025-03-30 13:25:02.005393
+Rfast2	2025-04-09	Manos Papadakis		0	2025-03-30 13:25:02.005393
+CAESAR.Suite	2025-04-10	Xiao Zhang		0	2025-03-30 13:25:02.005393
+FKF.SP	2025-04-10	Thomas Aspinall		0	2025-03-30 13:25:02.005393
+healthdb	2025-04-10	Kevin Hu		0	2025-03-30 13:25:02.005393
+inferCSN	2025-04-10	Meng Xu		0	2025-03-30 13:25:02.005393
+synlik	2025-04-10	Matteo Fasiolo		0	2025-03-30 13:25:02.005393
+analogue	2025-04-11	Gavin L. Simpson		0	2025-03-30 13:25:02.005393
+cocorresp	2025-04-11	Gavin L. Simpson		0	2025-03-30 13:25:02.005393
+doRNG	2025-04-11	Renaud Gaujoux		0	2025-03-30 13:25:02.005393
+FLASHMM	2025-04-11	Changjiang Xu		0	2025-03-30 13:25:02.005393
+geofi	2025-04-11	Markus Kainu		0	2025-03-30 13:25:02.005393
+gmwmx2	2025-04-11	Lionel Voirol		0	2025-03-30 13:25:02.005393
+winfapReader	2025-04-11	Ilaria Prosdocimi		0	2025-03-30 13:25:02.005393
+innsight	2025-04-12	Niklas Koenen		0	2025-03-30 13:25:02.005393
+partsm	2025-04-12	Matthieu Stigler		0	2025-03-30 13:25:02.005393
+PRSim	2025-04-12	Manuela Brunner		0	2025-03-30 13:25:02.005393
+A3	2025-04-14	Scott Fortmann-Roe		0	2025-03-30 13:25:02.005393
+abe	2025-04-14	Rok Blagus		0	2025-03-30 13:25:02.005393
+abess	2025-04-14	Jin Zhu		0	2025-03-30 13:25:02.005393
+accelmissing	2025-04-14	Jung Ae Lee		0	2025-03-30 13:25:02.005393
+AcrossTic	2025-04-14	Sam Buttrey		0	2025-03-30 13:25:02.005393
+aphylo	2025-04-14	George Vega Yon		0	2025-03-30 13:25:02.005393
+arcgisgeocode	2025-04-14	Josiah Parry		0	2025-03-30 13:25:02.005393
+arcgisplaces	2025-04-14	Josiah Parry		0	2025-03-30 13:25:02.005393
+arcgisutils	2025-04-14	Josiah Parry		0	2025-03-30 13:25:02.005393
+archetypes	2025-04-14	Manuel J. A. Eugster		0	2025-03-30 13:25:02.005393
+archivist.github	2025-04-14	Marcin Kosinski		0	2025-03-30 13:25:02.005393
+arcpbf	2025-04-14	Josiah Parry		0	2025-03-30 13:25:02.005393
+argonDash	2025-04-14	David Granjon		0	2025-03-30 13:25:02.005393
+arrow	2025-04-14	Jonathan Keane		0	2025-03-30 13:25:02.005393
+artfima	2025-04-14	A.I. McLeod		0	2025-03-30 13:25:02.005393
+awdb	2025-04-14	Kenneth Blake Vernon		0	2025-03-30 13:25:02.005393
+b64	2025-04-14	Josiah Parry		0	2025-03-30 13:25:02.005393
+banditpam	2025-04-14	Balasubramanian Narasimhan		0	2025-03-30 13:25:02.005393
+bayesboot	2025-04-14	Rasmus Bååth		0	2025-03-30 13:25:02.005393
+BayesComm	2025-04-14	Nick Golding
+<nick.golding.research@gmail.com>		0	2025-03-30 13:25:02.005393
+bayesvl	2025-04-14	Viet-Phuong La		0	2025-03-30 13:25:02.005393
+bc3net	2025-04-14	Ricardo de Matos Simoes		0	2025-03-30 13:25:02.005393
+bedr	2025-04-14	Paul C. Boutros		0	2025-03-30 13:25:02.005393
+bigGP	2025-04-14	Christopher Paciorek		0	2025-03-30 13:25:02.005393
+bioinactivation	2025-04-14	Alberto Garre		0	2025-03-30 13:25:02.005393
+BioMark	2025-04-14	Ron Wehrens		0	2025-03-30 13:25:02.005393
+BMT	2025-04-14	Camilo Jose Torres-Jimenez		0	2025-03-30 13:25:02.005393
+brainR	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+Cairo	2025-04-14	Simon Urbanek		0	2025-03-30 13:25:02.005393
+capm	2025-04-14	Oswaldo Santos Baquero		0	2025-03-30 13:25:02.005393
+cds	2025-04-14	Pieter Schoonees		0	2025-03-30 13:25:02.005393
+cenGAM	2025-04-14	Zhou Fang		0	2025-03-30 13:25:02.005393
+cg	2025-04-14	Bill Pikounis		0	2025-03-30 13:25:02.005393
+CircStats	2025-04-14	Claudio Agostinelli		0	2025-03-30 13:25:02.005393
+clarabel	2025-04-14	Balasubramanian Narasimhan		0	2025-03-30 13:25:02.005393
+CliftLRD	2025-04-14	Matt Nunes		0	2025-03-30 13:25:02.005393
+ClimClass	2025-04-14	Emanuele Eccel		0	2025-03-30 13:25:02.005393
+cloudml	2025-04-14	Daniel Falbel		0	2025-03-30 13:25:02.005393
+ClusteredMutations	2025-04-14	David Lora		0	2025-03-30 13:25:02.005393
+ClustOfVar	2025-04-14	Marie Chavent		0	2025-03-30 13:25:02.005393
+ClusVis	2025-04-14	Matthieu Marbac		0	2025-03-30 13:25:02.005393
+CoClust	2025-04-14	Francesca Marta Lilja Di Lascio		0	2025-03-30 13:25:02.005393
+colorfindr	2025-04-14	David Zumbach		0	2025-03-30 13:25:02.005393
+colorpatch	2025-04-14	Andre Mueller		0	2025-03-30 13:25:02.005393
+complmrob	2025-04-14	David Kepplinger		0	2025-03-30 13:25:02.005393
+COUNT	2025-04-14	Andrew Robinson		0	2025-03-30 13:25:02.005393
+CPGLIB	2025-04-14	Anthony Christidis		0	2025-03-30 13:25:02.005393
+crossword.r	2025-04-14	Peter Meissner		0	2025-03-30 13:25:02.005393
+crsra	2025-04-14	Aboozar Hadavand		0	2025-03-30 13:25:02.005393
+cubature	2025-04-14	Balasubramanian Narasimhan		0	2025-03-30 13:25:02.005393
+cubeview	2025-04-14	Tim Appelhans		0	2025-03-30 13:25:02.005393
+CVR	2025-04-14	Chongliang Luo		0	2025-03-30 13:25:02.005393
+cytofan	2025-04-14	Yann Abraham		0	2025-03-30 13:25:02.005393
+DandEFA	2025-04-14	Artur Manukyan		0	2025-03-30 13:25:02.005393
+datastepr	2025-04-14	Brandon Taylor		0	2025-03-30 13:25:02.005393
+dbarts	2025-04-14	Vincent Dorie		0	2025-03-30 13:25:02.005393
+Deducer	2025-04-14	Ian Fellows		0	2025-03-30 13:25:02.005393
+denseFLMM	2025-04-14	Jona Cederbaum		0	2025-03-30 13:25:02.005393
+DetR	2025-04-14	Kaveh Vakili		0	2025-03-30 13:25:02.005393
+dfmeta	2025-04-14	Artemis Toumazi		0	2025-03-30 13:25:02.005393
+diffr	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+discfrail	2025-04-14	Francesca Gasperoni		0	2025-03-30 13:25:02.005393
+distances	2025-04-14	Fredrik Savje		0	2025-03-30 13:25:02.005393
+DMwR2	2025-04-14	Luis Torgo		0	2025-03-30 13:25:02.005393
+dosresmeta	2025-04-14	Alessio Crippa		0	2025-03-30 13:25:02.005393
+dpmr	2025-04-14	Christopher Gandrud		0	2025-03-30 13:25:02.005393
+dr	2025-04-14	Sanford Weisberg		0	2025-03-30 13:25:02.005393
+earthtones	2025-04-14	Will Cornwell		0	2025-03-30 13:25:02.005393
+echogram	2025-04-14	Héctor Villalobos		0	2025-03-30 13:25:02.005393
+ecolottery	2025-04-14	François Munoz		0	2025-03-30 13:25:02.005393
+eDMA	2025-04-14	Leopoldo Catania		0	2025-03-30 13:25:02.005393
+eegkit	2025-04-14	Nathaniel E. Helwig		0	2025-03-30 13:25:02.005393
+effectR	2025-04-14	Javier Tabima		0	2025-03-30 13:25:02.005393
+EFS	2025-04-14	Ursula Neumann		0	2025-03-30 13:25:02.005393
+EMP	2025-04-14	Cristian Bravo		0	2025-03-30 13:25:02.005393
+EncDNA	2025-04-14	Prabina Kumar Meher		0	2025-03-30 13:25:02.005393
+encryptr	2025-04-14	Ewen Harrison		0	2025-03-30 13:25:02.005393
+equivalence	2025-04-14	Andrew Robinson		0	2025-03-30 13:25:02.005393
+ExplainPrediction	2025-04-14	Marko Robnik-Sikonja		0	2025-03-30 13:25:02.005393
+ExPosition	2025-04-14	Derek Beaton		0	2025-03-30 13:25:02.005393
+extremefit	2025-04-14	Kevin Jaunatre		0	2025-03-30 13:25:02.005393
+ezCutoffs	2025-04-14	Bjarne Schmalbach		0	2025-03-30 13:25:02.005393
+fcl	2025-04-14	Xianying Tan		0	2025-03-30 13:25:02.005393
+features	2025-04-14	Ravi Varadhan		0	2025-03-30 13:25:02.005393
+FinancialInstrument	2025-04-14	Ross Bennett		0	2025-03-30 13:25:02.005393
+fio	2025-04-14	Alberson da Silva Miranda		0	2025-03-30 13:25:02.005393
+fitplc	2025-04-14	Remko Duursma		0	2025-03-30 13:25:02.005393
+flexmixNL	2025-04-14	Sanela Omerovic		0	2025-03-30 13:25:02.005393
+FluMoDL	2025-04-14	Theodore Lytras		0	2025-03-30 13:25:02.005393
+foodingraph	2025-04-14	Victor Gasque		0	2025-03-30 13:25:02.005393
+ForecastComb	2025-04-14	Christoph E. Weiss		0	2025-03-30 13:25:02.005393
+frair	2025-04-14	Daniel Pritchard		0	2025-03-30 13:25:02.005393
+fs	2025-04-14	Gábor Csárdi		0	2025-03-30 13:25:02.005393
+gamlss.countKinf	2025-04-14	Saeed Mohammadpour		0	2025-03-30 13:25:02.005393
+gamlss.inf	2025-04-14	Marco Enea 		0	2025-03-30 13:25:02.005393
+gaselect	2025-04-14	David Kepplinger		0	2025-03-30 13:25:02.005393
+gcite	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+GeomComb	2025-04-14	Christoph E. Weiss		0	2025-03-30 13:25:02.005393
+ggalt	2025-04-14	Bob Rudis		0	2025-03-30 13:25:02.005393
+ggdmc	2025-04-14	Yi-Shin Lin		0	2025-03-30 13:25:02.005393
+ggghost	2025-04-14	Jonathan Carroll		0	2025-03-30 13:25:02.005393
+GGMncv	2025-04-14	Donald Williams		0	2025-03-30 13:25:02.005393
+ggparty	2025-04-14	Martin Borkovec		0	2025-03-30 13:25:02.005393
+ggpointdensity	2025-04-14	Lukas P. M. Kremer		0	2025-03-30 13:25:02.005393
+ggQC	2025-04-14	Kenith Grey		0	2025-03-30 13:25:02.005393
+ggseas	2025-04-14	Peter Ellis		0	2025-03-30 13:25:02.005393
+githubinstall	2025-04-14	Koji Makiyama		0	2025-03-30 13:25:02.005393
+glassdoor	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+glpkAPI	2025-04-14	Mihail Anton		0	2025-03-30 13:25:02.005393
+gmDatabase	2025-04-14	K. Gerald van den Boogaart		0	2025-03-30 13:25:02.005393
+goldfish	2025-04-14	Alvaro Uzaheta		0	2025-03-30 13:25:02.005393
+googleComputeEngineR	2025-04-14	Mark Edmondson		0	2025-03-30 13:25:02.005393
+GPfit	2025-04-14	Hugh Chipman		0	2025-03-30 13:25:02.005393
+heck	2025-04-14	Dyfan Jones		0	2025-03-30 13:25:02.005393
+highs	2025-04-14	Florian Schwendinger		0	2025-03-30 13:25:02.005393
+hnp	2025-04-14	Rafael de Andrade Moral		0	2025-03-30 13:25:02.005393
+homomorpheR	2025-04-14	Balasubramanian Narasimhan		0	2025-03-30 13:25:02.005393
+HSDiC	2025-04-14	Yaguang Li		0	2025-03-30 13:25:02.005393
+IDPSurvival	2025-04-14	Francesca Mangili		0	2025-03-30 13:25:02.005393
+imguR	2025-04-14	Thomas J. Leeper		0	2025-03-30 13:25:02.005393
+InPosition	2025-04-14	Derek Beaton		0	2025-03-30 13:25:02.005393
+IRISSeismic	2025-04-14	Gillian Sharer		0	2025-03-30 13:25:02.005393
+JavaGD	2025-04-14	Simon Urbanek		0	2025-03-30 13:25:02.005393
+kirby21.fmri	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+kirby21.t1	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+kknn	2025-04-14	Klaus Schliep		0	2025-03-30 13:25:02.005393
+languageR	2025-04-14	R. H. Baayen		0	2025-03-30 13:25:02.005393
+lar	2025-04-14	Richard Zijdeman		0	2025-03-30 13:25:02.005393
+latte	2025-04-14	David Kahle		0	2025-03-30 13:25:02.005393
+lazyWeave	2025-04-14	Benjamin Nutter		0	2025-03-30 13:25:02.005393
+LCAvarsel	2025-04-14	Michael Fop		0	2025-03-30 13:25:02.005393
+leabRa	2025-04-14	Johannes Titz		0	2025-03-30 13:25:02.005393
+leaflet.esri	2025-04-14	Bhaskar Karambelkar		0	2025-03-30 13:25:02.005393
+leanpubr	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+leidenAlg	2025-04-14	Evan Biederstedt		0	2025-03-30 13:25:02.005393
+LibOPF	2025-04-14	Rafael Junqueira Martarelli		0	2025-03-30 13:25:02.005393
+lifelogr	2025-04-14	Lisa Ann Yu		0	2025-03-30 13:25:02.005393
+LifeTables	2025-04-14	David J. Sharrow		0	2025-03-30 13:25:02.005393
+LightningR	2025-04-14	Kolodziejski Kamil		0	2025-03-30 13:25:02.005393
+likert	2025-04-14	Jason Bryer		0	2025-03-30 13:25:02.005393
+LongMemoryTS	2025-04-14	Christian Leschinski		0	2025-03-30 13:25:02.005393
+lpSolveAPI	2025-04-14	Florian Schwendinger		0	2025-03-30 13:25:02.005393
+lsbclust	2025-04-14	Pieter Schoonees		0	2025-03-30 13:25:02.005393
+lspartition	2025-04-14	Yingjie Feng		0	2025-03-30 13:25:02.005393
+m2b	2025-04-14	Laurent Dubroca		0	2025-03-30 13:25:02.005393
+marg	2025-04-14	Alessandra R. Brazzale		0	2025-03-30 13:25:02.005393
+mcmcplots	2025-04-14	S. McKay Curtis		0	2025-03-30 13:25:02.005393
+MDplot	2025-04-14	Christian Margreitter		0	2025-03-30 13:25:02.005393
+MDSMap	2025-04-14	Bram Boskamp		0	2025-03-30 13:25:02.005393
+mediation	2025-04-14	Teppei Yamamoto		0	2025-03-30 13:25:02.005393
+MiDA	2025-04-14	Elena Filatova		0	2025-03-30 13:25:02.005393
+miniUI	2025-04-14	Joe Cheng		0	2025-03-30 13:25:02.005393
+miscset	2025-04-14	Sven E. Templer		0	2025-03-30 13:25:02.005393
+monitoR	2025-04-14	Sasha D. Hafner		0	2025-03-30 13:25:02.005393
+MortalityGaps	2025-04-14	Marius D. Pascariu		0	2025-03-30 13:25:02.005393
+msme	2025-04-14	Andrew Robinson		0	2025-03-30 13:25:02.005393
+mtsdi	2025-04-14	Washington Junger		0	2025-03-30 13:25:02.005393
+multilevelPSA	2025-04-14	Jason Bryer		0	2025-03-30 13:25:02.005393
+multiway	2025-04-14	Nathaniel E. Helwig		0	2025-03-30 13:25:02.005393
+musica	2025-04-14	Martin Hanel		0	2025-03-30 13:25:02.005393
+neojags	2025-04-14	Achmad Syahrul Choir		0	2025-03-30 13:25:02.005393
+networkD3	2025-04-14	Christopher Gandrud		0	2025-03-30 13:25:02.005393
+networkDynamicData	2025-04-14	Skye Bender-deMoll		0	2025-03-30 13:25:02.005393
+nlcv	2025-04-14	Laure Cougnaud		0	2025-03-30 13:25:02.005393
+nlt	2025-04-14	Matt Nunes		0	2025-03-30 13:25:02.005393
+NORMA	2025-04-14	Jesus Prada		0	2025-03-30 13:25:02.005393
+ODEsensitivity	2025-04-14	Dirk Surmann		0	2025-03-30 13:25:02.005393
+oglmx	2025-04-14	Nathan Carroll		0	2025-03-30 13:25:02.005393
+omics	2025-04-14	Gianluca Campanella		0	2025-03-30 13:25:02.005393
+optbdmaeAT	2025-04-14	Dibaba Bayisa Gemechu		0	2025-03-30 13:25:02.005393
+optrcdmaeAT	2025-04-14	Dibaba Bayisa Gemechu		0	2025-03-30 13:25:02.005393
+overture	2025-04-14	Kurtis Shuler		0	2025-03-30 13:25:02.005393
+pampe	2025-04-14	Ainhoa Vega-Bayo		0	2025-03-30 13:25:02.005393
+panelaggregation	2025-04-14	Matthias Bannert		0	2025-03-30 13:25:02.005393
+paropt	2025-04-14	Krämer Konrad		0	2025-03-30 13:25:02.005393
+pbdMPI	2025-04-14	Wei-Chen Chen		0	2025-03-30 13:25:02.005393
+pbdZMQ	2025-04-14	Wei-Chen Chen		0	2025-03-30 13:25:02.005393
+pcaL1	2025-04-14	Paul Brooks		0	2025-03-30 13:25:02.005393
+pcdpca	2025-04-14	Lukasz Kidzinski		0	2025-03-30 13:25:02.005393
+pdfsearch	2025-04-14	Brandon LeBeau		0	2025-03-30 13:25:02.005393
+pdmod	2025-04-14	Chloe Bracis		0	2025-03-30 13:25:02.005393
+performanceEstimation	2025-04-14	Luis Torgo		0	2025-03-30 13:25:02.005393
+permGS	2025-04-14	Matthias Brueckner		0	2025-03-30 13:25:02.005393
+pheatmap	2025-04-14	Raivo Kolde		0	2025-03-30 13:25:02.005393
+PHENIX	2025-04-14	A. J. Muñoz-Pajares		0	2025-03-30 13:25:02.005393
+phylotools	2025-04-14	Jinlong Zhang		0	2025-03-30 13:25:02.005393
+PKI	2025-04-14	Simon Urbanek		0	2025-03-30 13:25:02.005393
+pltesim	2025-04-14	Christopher Gandrud		0	2025-03-30 13:25:02.005393
+polywog	2025-04-14	Brenton Kenkel		0	2025-03-30 13:25:02.005393
+PortRisk	2025-04-14	Sourish Das		0	2025-03-30 13:25:02.005393
+posterdown	2025-04-14	Brent Thorne		0	2025-03-30 13:25:02.005393
+PowerNormal	2025-04-14	Gualberto Segundo Agamez Montalvo		0	2025-03-30 13:25:02.005393
+pqantimalarials	2025-04-14	J. Patrick Renschler		0	2025-03-30 13:25:02.005393
+PROJ	2025-04-14	Michael D. Sumner		0	2025-03-30 13:25:02.005393
+propagate	2025-04-14	Andrej-Nikolai Spiess		0	2025-03-30 13:25:02.005393
+psData	2025-04-14	Christopher Gandrud		0	2025-03-30 13:25:02.005393
+pseval	2025-04-14	Michael C Sachs		0	2025-03-30 13:25:02.005393
+PSGD	2025-04-14	Anthony Christidis		0	2025-03-30 13:25:02.005393
+ptycho	2025-04-14	Laurel Stell		0	2025-03-30 13:25:02.005393
+qpcR	2025-04-14	Andrej-Nikolai Spiess		0	2025-03-30 13:25:02.005393
+QRegVCM	2025-04-14	"Andriyana.Y"		0	2025-03-30 13:25:02.005393
+QuickJSR	2025-04-14	Andrew R. Johnson		0	2025-03-30 13:25:02.005393
+QZ	2025-04-14	Wei-Chen Chen		0	2025-03-30 13:25:02.005393
+r2glmm	2025-04-14	Byron Jaeger		0	2025-03-30 13:25:02.005393
+r2sundials	2025-04-14	Serguei Sokol		0	2025-03-30 13:25:02.005393
+r6extended	2025-04-14	Peter Meissner		0	2025-03-30 13:25:02.005393
+ramify	2025-04-14	Brandon Greenwell		0	2025-03-30 13:25:02.005393
+rankhazard	2025-04-14	Nanni Koski		0	2025-03-30 13:25:02.005393
+rasclass	2025-04-14	Daniel Wiesmann		0	2025-03-30 13:25:02.005393
+rbiom	2025-04-14	Daniel P. Smith		0	2025-03-30 13:25:02.005393
+rbm25	2025-04-14	David Zimmermann-Kollenda		0	2025-03-30 13:25:02.005393
+RBPcurve	2025-04-14	Giuseppe Casalicchio		0	2025-03-30 13:25:02.005393
+RcmdrPlugin.GWRM	2025-04-14	Silverio Vilchez-Lopez		0	2025-03-30 13:25:02.005393
+RcmdrPlugin.temis	2025-04-14	Milan Bouchet-Valat		0	2025-03-30 13:25:02.005393
+Rcplex	2025-04-14	Stefan Theussl		0	2025-03-30 13:25:02.005393
+RcppCWB	2025-04-14	Andreas Blaette		0	2025-03-30 13:25:02.005393
+RcppDist	2025-04-14	JB Duck-Mayr		0	2025-03-30 13:25:02.005393
+Rcsdp	2025-04-14	Hector Corrada Bravo		0	2025-03-30 13:25:02.005393
+rdd	2025-04-14	Drew Dimmery		0	2025-03-30 13:25:02.005393
+rdfp	2025-04-14	Steven M. Mortimer		0	2025-03-30 13:25:02.005393
+RDML	2025-04-14	Konstantin A. Blagodatskikh		0	2025-03-30 13:25:02.005393
+Rdsdp	2025-04-14	Zhisu Zhu		0	2025-03-30 13:25:02.005393
+ReacTran	2025-04-14	Karline Soetaert		0	2025-03-30 13:25:02.005393
+rebus.numbers	2025-04-14	Richard Cotton		0	2025-03-30 13:25:02.005393
+remote	2025-04-14	Tim Appelhans		0	2025-03-30 13:25:02.005393
+repmis	2025-04-14	Christopher Gandrud		0	2025-03-30 13:25:02.005393
+reutils	2025-04-14	Gerhard Schöfl		0	2025-03-30 13:25:02.005393
+revealjs	2025-04-14	JJ Allaire		0	2025-03-30 13:25:02.005393
+RH2	2025-04-14	"David M. Kaplan"		0	2025-03-30 13:25:02.005393
+RJcluster	2025-04-14	Rachael Shudde		0	2025-03-30 13:25:02.005393
+rjmcmc	2025-04-14	Nick Gelling		0	2025-03-30 13:25:02.005393
+rlang	2025-04-14	Lionel Henry		0	2025-03-30 13:25:02.005393
+RmarineHeatWaves	2025-04-14	Albertus J. Smit		0	2025-03-30 13:25:02.005393
+RMAWGEN	2025-04-14	Emanuele Cordano		0	2025-03-30 13:25:02.005393
+rMR	2025-04-14	Tyler L. Moulton		0	2025-03-30 13:25:02.005393
+rmumps	2025-04-14	Serguei Sokol		0	2025-03-30 13:25:02.005393
+robreg3S	2025-04-14	Andy Leung		0	2025-03-30 13:25:02.005393
+rolldown	2025-04-14	Yihui Xie		0	2025-03-30 13:25:02.005393
+ROlogit	2025-04-14	Ning Yilin		0	2025-03-30 13:25:02.005393
+RPEGLMEN	2025-04-14	Anthony Christidis		0	2025-03-30 13:25:02.005393
+rptR	2025-04-14	Martin Stoffel		0	2025-03-30 13:25:02.005393
+RSauceLabs	2025-04-14	John Harrison		0	2025-03-30 13:25:02.005393
+rscopus	2025-04-14	John Muschelli		0	2025-03-30 13:25:02.005393
+rshift	2025-04-14	Alex H. Room		0	2025-03-30 13:25:02.005393
+RsimMosaic	2025-04-14	Alberto Krone-Martins		0	2025-03-30 13:25:02.005393
+rtiktoken	2025-04-14	David Zimmermann-Kollenda		0	2025-03-30 13:25:02.005393
+rucm	2025-04-14	Kaushik Roy Chowdhury		0	2025-03-30 13:25:02.005393
+ruin	2025-04-14	Iegor Rudnytskyi		0	2025-03-30 13:25:02.005393
+runjags	2025-04-14	Matthew Denwood		0	2025-03-30 13:25:02.005393
+RZabbix	2025-04-14	Marcin Kosinski		0	2025-03-30 13:25:02.005393
+s4vd	2025-04-14	Martin Sill		0	2025-03-30 13:25:02.005393
+sass	2025-04-14	Carson Sievert		0	2025-03-30 13:25:02.005393
+SCI	2025-04-14	Lukas Gudmundsson		0	2025-03-30 13:25:02.005393
+SciViews	2025-04-14	Philippe Grosjean		0	2025-03-30 13:25:02.005393
+scs	2025-04-14	Florian Schwendinger		0	2025-03-30 13:25:02.005393
+selectMeta	2025-04-14	Kaspar Rufibach		0	2025-03-30 13:25:02.005393
+seleniumPipes	2025-04-14	John Harrison		0	2025-03-30 13:25:02.005393
+SemiPar	2025-04-14	Billy Aung Myint		0	2025-03-30 13:25:02.005393
+SensusR	2025-04-14	Matthew S. Gerber		0	2025-03-30 13:25:02.005393
+sesem	2025-04-14	Eric Lamb		0	2025-03-30 13:25:02.005393
+sft	2025-04-14	Joe Houpt		0	2025-03-30 13:25:02.005393
+shopifyr	2025-04-14	Charlie Friedemann		0	2025-03-30 13:25:02.005393
+SimComp	2025-04-14	Mario Hasler		0	2025-03-30 13:25:02.005393
+SimCop	2025-04-14	Berwin A. Turlach		0	2025-03-30 13:25:02.005393
+simMP	2025-04-14	Nan Zhou		0	2025-03-30 13:25:02.005393
+simplexreg	2025-04-14	Peng Zhang		0	2025-03-30 13:25:02.005393
+smcryptoR	2025-04-14	Meng Yu		0	2025-03-30 13:25:02.005393
+smoothROCtime	2025-04-14	Susana Diaz-Coto		0	2025-03-30 13:25:02.005393
+smoothtail	2025-04-14	Kaspar Rufibach		0	2025-03-30 13:25:02.005393
+soptdmaeA	2025-04-14	Dibaba Bayisa Gemechu		0	2025-03-30 13:25:02.005393
+speakeasyR	2025-04-14	David Connell		0	2025-03-30 13:25:02.005393
+spider	2025-04-14	Rupert A. Collins		0	2025-03-30 13:25:02.005393
+SplitGLM	2025-04-14	Anthony Christidis		0	2025-03-30 13:25:02.005393
+SplitReg	2025-04-14	Anthony Christidis		0	2025-03-30 13:25:02.005393
+spuRs	2025-04-14	Andrew Robinson		0	2025-03-30 13:25:02.005393
+SQLFormatteR	2025-04-14	Morgan Durand		0	2025-03-30 13:25:02.005393
+sscor	2025-04-14	Alexander Duerre		0	2025-03-30 13:25:02.005393
+ssizeRNA	2025-04-14	Ran Bi		0	2025-03-30 13:25:02.005393
+statgenGWAS	2025-04-14	Bart-Jan van Rossum		0	2025-03-30 13:25:02.005393
+stepSplitReg	2025-04-14	Anthony Christidis		0	2025-03-30 13:25:02.005393
+stratEst	2025-04-14	Fabian Dvorak		0	2025-03-30 13:25:02.005393
+SubpathwayLNCE	2025-04-14	Xinrui Shi		0	2025-03-30 13:25:02.005393
+subspace	2025-04-14	Marwan Hassani		0	2025-03-30 13:25:02.005393
+sundialr	2025-04-14	Satyaprakash Nayak		0	2025-03-30 13:25:02.005393
+surveyvoi	2025-04-14	Jeffrey O Hanson		0	2025-03-30 13:25:02.005393
+survivalsvm	2025-04-14	Cesaire Fouodo		0	2025-03-30 13:25:02.005393
+sValues	2025-04-14	Carlos Cinelli		0	2025-03-30 13:25:02.005393
+tagcloud	2025-04-14	January Weiner		0	2025-03-30 13:25:02.005393
+teamr	2025-04-14	Michael Yan		0	2025-03-30 13:25:02.005393
+tergo	2025-04-14	Konrad Pagacz		0	2025-03-30 13:25:02.005393
+TExPosition	2025-04-14	Derek Beaton		0	2025-03-30 13:25:02.005393
+tiledb	2025-04-14	Isaiah Norton		0	2025-03-30 13:25:02.005393
+tomledit	2025-04-14	Josiah Parry		0	2025-03-30 13:25:02.005393
+treeClust	2025-04-14	Sam Buttrey		0	2025-03-30 13:25:02.005393
+TrendSLR	2025-04-14	Phil J Watson		0	2025-03-30 13:25:02.005393
+TriMatch	2025-04-14	Jason Bryer		0	2025-03-30 13:25:02.005393
+ttScreening	2025-04-14	Meredith Ray		0	2025-03-30 13:25:02.005393
+unsystation	2025-04-14	Haeran Cho		0	2025-03-30 13:25:02.005393
+utf8	2025-04-14	Kirill Müller		0	2025-03-30 13:25:02.005393
+vapour	2025-04-14	Michael Sumner		0	2025-03-30 13:25:02.005393
+vcfppR	2025-04-14	Zilong Li		0	2025-03-30 13:25:02.005393
+vesselr	2025-04-14	Jordan D. Dworkin		0	2025-03-30 13:25:02.005393
+VicmapR	2025-04-14	Justin Cally		0	2025-03-30 13:25:02.005393
+volesti	2025-04-14	Vissarion Fisikopoulos		0	2025-03-30 13:25:02.005393
+WARN	2025-04-14	Takumi Tsutaya		0	2025-03-30 13:25:02.005393
+waterData	2025-04-14	Karen R. Ryberg		0	2025-03-30 13:25:02.005393
+waterfall	2025-04-14	"James P. Howard, II"		0	2025-03-30 13:25:02.005393
+x.ent	2025-04-14	Tien T. Phan		0	2025-03-30 13:25:02.005393
+xlink	2025-04-14	Yi Zhu		0	2025-03-30 13:25:02.005393
+ymd	2025-04-14	Xianying Tan		0	2025-03-30 13:25:02.005393
+zoomerjoin	2025-04-14	Beniamino Green		0	2025-03-30 13:25:02.005393
+bsamGP	2025-04-15	Beomjo Park		0	2025-03-30 13:25:02.005393
+bssn	2025-04-15	Rocio Paola Maehara		0	2025-03-30 13:25:02.005393
+DeRezende.Ferreira	2025-04-15	Oleksandr Castello		0	2025-03-30 13:25:02.005393
+easySimData	2025-04-15	Han Zhang		0	2025-03-30 13:25:02.005393
+fcr	2025-04-15	Andrew Leroux		0	2025-03-30 13:25:02.005393
+fdaMocca	2025-04-15	Natalya Pya Arnqvist		0	2025-03-30 13:25:02.005393
+FlexReg	2025-04-15	Roberto Ascari		0	2025-03-30 13:25:02.005393
+fpcb	2025-04-15	Nicolás Hernández		0	2025-03-30 13:25:02.005393
+FunCC	2025-04-15	Agostino Torti		0	2025-03-30 13:25:02.005393
+geoR	2025-04-15	Paulo Justiniano Ribeiro Jr		0	2025-03-30 13:25:02.005393
+hdpGLM	2025-04-15	Diogo Ferrari		0	2025-03-30 13:25:02.005393
+HeritSeq	2025-04-15	W. Jenny Shi		0	2025-03-30 13:25:02.005393
+idem	2025-04-15	Chenguang Wang		0	2025-03-30 13:25:02.005393
+irtDemo	2025-04-15	Metin Bulus		0	2025-03-30 13:25:02.005393
+IsoCheck	2025-04-15	Pritam Ranjan		0	2025-03-30 13:25:02.005393
+LavaCvxr	2025-04-15	Yang Liu		0	2025-03-30 13:25:02.005393
+Lavash	2025-04-15	Jaeheon Jung		0	2025-03-30 13:25:02.005393
+mixSPE	2025-04-15	Utkarsh J. Dang		0	2025-03-30 13:25:02.005393
+mosaicModel	2025-04-15	Daniel Kaplan		0	2025-03-30 13:25:02.005393
+moveHMM	2025-04-15	Theo Michelot		0	2025-03-30 13:25:02.005393
+MplusTrees	2025-04-15	Sarfaraz Serang		0	2025-03-30 13:25:02.005393
+msaFACE	2025-04-15	Lukas W. Lehnert		0	2025-03-30 13:25:02.005393
+NetMix	2025-04-15	Santiago Olivella		0	2025-03-30 13:25:02.005393
+npphen	2025-04-15	José A. Lastra		0	2025-03-30 13:25:02.005393
+poisbinom	2025-04-15	Santiago Olivella		0	2025-03-30 13:25:02.005393
+rare	2025-04-15	Xiaohan Yan		0	2025-03-30 13:25:02.005393
+rollmatch	2025-04-15	Rob Chew		0	2025-03-30 13:25:02.005393
+secure	2025-04-15	Aditya Mishra		0	2025-03-30 13:25:02.005393
+SmCCNet	2025-04-15	Weixuan Liu		0	2025-03-30 13:25:02.005393
+urltools	2025-04-15	Os Keyes		0	2025-03-30 13:25:02.005393
+VirtualPop	2025-04-15	Frans Willekens		0	2025-03-30 13:25:02.005393
+visit	2025-04-15	Chenguang Wang		0	2025-03-30 13:25:02.005393
+VLF	2025-04-15	Taryn B. T. Athey		0	2025-03-30 13:25:02.005393
+biodosetools	2025-04-16	Alfredo Hernández		0	2025-03-30 13:25:02.005393
+bsplus	2025-04-16	Ian Lyttle		0	2025-03-30 13:25:02.005393
+dipm	2025-04-16	Cai Li		0	2025-03-30 13:25:02.005393
+later	2025-04-16	Winston Chang		0	2025-03-30 13:25:02.005393
+nanoarrow	2025-04-16	Dewey Dunnington		0	2025-03-30 13:25:02.005393
+Rlibeemd	2025-04-16	Jouni Helske		0	2025-03-30 13:25:02.005393
+sarsop	2025-04-16	Carl Boettiger		0	2025-03-30 13:25:02.005393
+weatherOz	2025-04-16	Rodrigo Pires		0	2025-03-30 13:25:02.005393
+cardx	2025-04-17	Daniel D. Sjoberg		0	2025-03-30 13:25:02.005393
+catlearn	2025-04-17	Andy Wills		0	2025-03-30 13:25:02.005393
+clustermq	2025-04-17	Michael Schubert		0	2025-03-30 13:25:02.005393
+cpp11tesseract	2025-04-17	Mauricio Vargas Sepulveda		0	2025-03-30 13:25:02.005393
+gpg	2025-04-17	Jeroen Ooms		0	2025-03-30 13:25:02.005393
+image.textlinedetector	2025-04-17	Jan Wijffels		0	2025-03-30 13:25:02.005393
+openalexR	2025-04-17	Massimo Aria		0	2025-03-30 13:25:02.005393
+QF	2025-04-17	Aldo Gardini		0	2025-03-30 13:25:02.005393
+ragg	2025-04-17	Thomas Lin Pedersen		0	2025-03-30 13:25:02.005393
+RcppZiggurat	2025-04-17	Dirk Eddelbuettel		0	2025-03-30 13:25:02.005393
+rliger	2025-04-17	Yichen Wang		0	2025-03-30 13:25:02.005393
+tidystats	2025-04-17	Willem Sleegers		0	2025-03-30 13:25:02.005393
+websocket	2025-04-17	Winston Chang		0	2025-03-30 13:25:02.005393
+winch	2025-04-17	Kirill Müller		0	2025-03-30 13:25:02.005393
+ClassDiscovery	2025-05-05	Kevin R. Coombes		0	2025-03-30 13:25:02.005393
+CloneSeeker	2025-05-05	Kevin R. Coombes		0	2025-03-30 13:25:02.005393
+CrossValidate	2025-05-05	Kevin R. Coombes		0	2025-03-30 13:25:02.005393
+Polychrome	2025-05-05	Kevin R. Coombes		0	2025-03-30 13:25:02.005393
+PreProcess	2025-05-05	Kevin R. Coombes		0	2025-03-30 13:25:02.005393
+luajr	2025-05-16	Nicholas Davies		0	2025-03-30 13:25:02.005393
+segMGarch	2025-05-16	Karolos Korkas		0	2025-03-30 13:25:02.005393
